@@ -1,0 +1,123 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Patrick\Documents\VATCA\MPZL.sct
+SECTORTITLE:MPZL.sct
+Fixes:ANGUD:name
+Fixes:ANGUD:symbol
+Fixes:ARMIS:name
+Fixes:ARMIS:symbol
+Fixes:DILAK:name
+Fixes:DILAK:symbol
+Fixes:EGDON:name
+Fixes:EGDON:symbol
+Fixes:ENLIX:name
+Fixes:ENLIX:symbol
+Fixes:ENRIG:name
+Fixes:ENRIG:symbol
+Fixes:ESIPI:name
+Fixes:ESIPI:symbol
+Fixes:ESLEK:name
+Fixes:ESLEK:symbol
+Fixes:ETIKA:name
+Fixes:ETIKA:symbol
+Fixes:GINEA:name
+Fixes:GINEA:symbol
+Fixes:ITOLA:name
+Fixes:ITOLA:symbol
+Fixes:KIBIL:name
+Fixes:KIBIL:symbol
+Fixes:KIMEX:name
+Fixes:KIMEX:symbol
+Fixes:KOMDI:name
+Fixes:KOMDI:symbol
+Fixes:LAMBI:name
+Fixes:LAMBI:symbol
+Fixes:MALEK:name
+Fixes:MALEK:symbol
+Fixes:MARLU:name
+Fixes:MARLU:symbol
+Fixes:MIPAR:name
+Fixes:MIPAR:symbol
+Fixes:NELEX:name
+Fixes:NELEX:symbol
+Fixes:PITNE:name
+Fixes:PITNE:symbol
+Fixes:REMEM:name
+Fixes:REMEM:symbol
+Fixes:SIMIX:name
+Fixes:SIMIX:symbol
+Fixes:TOROG:name
+Fixes:TOROG:symbol
+Fixes:VERAY:name
+Fixes:VERAY:symbol
+Free Text:MPDAMVAs\136:freetext
+Free Text:MPDAMVAs\28:freetext
+Free Text:MPDAMVAs\34:freetext
+Free Text:MPDAMVAs\35:freetext
+Free Text:MPDAMVAs\39:freetext
+Free Text:MPDAMVAs\41:freetext
+Free Text:MPDAMVAs\53:freetext
+Free Text:MPDAMVAs\96:freetext
+Free Text:MPDAMVAs\99:freetext
+Free Text:MPMG\A:freetext
+Free Text:MPMG\A:freetext
+Free Text:MPMG\A:freetext
+Free Text:MPMG\B:freetext
+Free Text:MPMG\C:freetext
+Free Text:MPMG\D:freetext
+Free Text:MPMG\D:freetext
+Free Text:MPMG\E:freetext
+Free Text:MPMG\E:freetext
+Free Text:MPMG\F:freetext
+Free Text:MPMG\G:freetext
+Free Text:MPMG\G:freetext
+Free Text:MPMG\TERMINAL:freetext
+Free Text:MPTOMVAs\16:freetext
+Free Text:MPTOMVAs\19:freetext
+Free Text:MPTOMVAs\21:freetext
+Free Text:MPTOMVAs\21:freetext
+Free Text:MPTOMVAs\23:freetext
+Free Text:MPTOMVAs\29:freetext
+Free Text:MPTOMVAs\30:freetext
+Free Text:MPTOMVAs\32:freetext
+Free Text:MPTOMVAs\40:freetext
+Free Text:MPTOMVAs\41:freetext
+Free Text:MPTOMVAs\50:freetext
+Free Text:MPTOMVAs\50:freetext
+Free Text:MPTOMVAs\60:freetext
+Geo:MPMG:
+Runways:MPMG 01-19:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+DisplayRotation:85.00000
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:8.966623:-79.572589:8.978868:-79.548392
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:349
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:28,255,28
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:6
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA

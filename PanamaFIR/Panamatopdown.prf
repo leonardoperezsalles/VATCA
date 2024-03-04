@@ -1,0 +1,48 @@
+Settings	sector	\MPZL.sct
+LastSession	connecttype	0
+LastSession	realname	
+LastSession	certificate	
+LastSession	password	
+LastSession	facility	6
+LastSession	rating	7
+LastSession	server	AUTOMATIC
+LastSession	tovatsim	1
+LastSession	atis2	Panama Control
+LastSession	range	600
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin0	\DiscordEuroscope.dll
+Settings	SettingsfileSYMBOLOGY	\mastersettings.txt
+Settings	SettingsfileVOICE	\mastersettings.txt
+Settings	SettingsfilePROFILE	\mastersettings.txt
+Settings	SettingsfileTAGS	\mastersettings.txt
+Settings	SettingsfileSIL	\mastersettings.txt
+Settings	SettingsfileSEL	\mastersettings.txt
+Settings	SettingsfileDEP	\mastersettings.txt
+Settings	SettingsfileARR	\mastersettings.txt
+Settings	SettingsfileFP	\mastersettings.txt
+Settings	SettingsfilePLUGINS	\mastersettings.txt
+Settings	Settingsfile	\mastersettings.txt
+Settings	SettingsfileSCREEN	\mastersettings.txt
+Settings	SettingsfileCONFLICT	\mastersettings.txt
+Settings	SettingsfileVCCS	\mastersettings.txt
+Settings	SettingsfilePILOTING	\mastersettings.txt
+RecentFiles	Recent1	\mptognd.asr
+RecentFiles	Recent2	\mpzlctr.asr
+RecentFiles	Recent3	\mptoapp.asr
+RecentFiles	Recent4	\mpda_gnd.asr
+RecentFiles	Recent5	\mpsm_gnd.asr
+RecentFiles	Recent6	\mpbo_gnd.asr
+RecentFiles	Recent7	\mpmg_gnd.asr
+LastSession	atis_airport	MPTO
+LastSession	atis_letter	67
+Voice	output_hardware	DirectSound - Speakers (Intel SST Audio Device (WDM))
+Voice	output_hardware2	DirectSound - Speakers (Intel SST Audio Device (WDM))
+LastSession	callsign	MPZL_CTR
+Plugins	Plugin1	\UKControllerPlugin.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+LastSession	atis4	vatca.net
+LastSession	atis3	Englsih & Spanish
+Settings	airways	C:\Users\leona\Downloads\ISEC.txt

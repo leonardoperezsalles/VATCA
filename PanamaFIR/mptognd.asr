@@ -1,0 +1,170 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\leona\OneDrive\VATCA-2302\PanamaFIR\MPZL.sct
+SECTORTITLE:MPZL.sct
+ARTCC boundary:MPZL_CTR:
+ARTCC high boundary:MPTO_APP:
+Free Text:MPTO_GATE\101:freetext
+Free Text:MPTO_GATE\102:freetext
+Free Text:MPTO_GATE\103:freetext
+Free Text:MPTO_GATE\106:freetext
+Free Text:MPTO_GATE\107:freetext
+Free Text:MPTO_GATE\108:freetext
+Free Text:MPTO_GATE\109:freetext
+Free Text:MPTO_GATE\110:freetext
+Free Text:MPTO_GATE\111:freetext
+Free Text:MPTO_GATE\112:freetext
+Free Text:MPTO_GATE\114:freetext
+Free Text:MPTO_GATE\115:freetext
+Free Text:MPTO_GATE\120:freetext
+Free Text:MPTO_GATE\120A:freetext
+Free Text:MPTO_GATE\121:freetext
+Free Text:MPTO_GATE\122:freetext
+Free Text:MPTO_GATE\123:freetext
+Free Text:MPTO_GATE\124:freetext
+Free Text:MPTO_GATE\126:freetext
+Free Text:MPTO_GATE\127:freetext
+Free Text:MPTO_GATE\128:freetext
+Free Text:MPTO_GATE\130:freetext
+Free Text:MPTO_GATE\133:freetext
+Free Text:MPTO_GATE\135:freetext
+Free Text:MPTO_GATE\137:freetext
+Free Text:MPTO_GATE\139:freetext
+Free Text:MPTO_GATE\140:freetext
+Free Text:MPTO_GATE\141:freetext
+Free Text:MPTO_GATE\142:freetext
+Free Text:MPTO_GATE\143:freetext
+Free Text:MPTO_GATE\144:freetext
+Free Text:MPTO_GATE\145:freetext
+Free Text:MPTO_GATE\146:freetext
+Free Text:MPTO_GATE\146A:freetext
+Free Text:MPTO_GATE\201:freetext
+Free Text:MPTO_GATE\202:freetext
+Free Text:MPTO_GATE\203:freetext
+Free Text:MPTO_GATE\204:freetext
+Free Text:MPTO_GATE\207:freetext
+Free Text:MPTO_GATE\208:freetext
+Free Text:MPTO_GATE\209:freetext
+Free Text:MPTO_GATE\211:freetext
+Free Text:MPTO_GATE\215:freetext
+Free Text:MPTO_GATE\216:freetext
+Free Text:MPTO_GATE\217:freetext
+Free Text:MPTO_GATE\218:freetext
+Free Text:MPTO_GATE\219:freetext
+Free Text:MPTO_GATE\220:freetext
+Free Text:MPTO_GATE\221:freetext
+Free Text:MPTO_GATE\222:freetext
+Free Text:MPTO_GATE\223:freetext
+Free Text:MPTO_GATE\224:freetext
+Free Text:MPTO_GATE\225:freetext
+Free Text:MPTO_GATE\501:freetext
+Free Text:MPTO_GATE\502:freetext
+Free Text:MPTO_GATE\503:freetext
+Free Text:MPTO_GATE\504:freetext
+Free Text:MPTO_GATE\505:freetext
+Free Text:MPTO_GATE\506:freetext
+Free Text:MPTO_GATE\507:freetext
+Free Text:MPTO_GATE\508:freetext
+Free Text:MPTO_GATE\509:freetext
+Free Text:MPTO_GATE\510:freetext
+Free Text:MPTO_GATE\511:freetext
+Free Text:MPTO_GATE\60:freetext
+Free Text:MPTO_GATE\61:freetext
+Free Text:MPTO_GATE\64:freetext
+Free Text:MPTO_GATE\65:freetext
+Free Text:MPTO_GATE\67:freetext
+Free Text:MPTO_GATE\703:freetext
+Free Text:MPTO_GATE\704:freetext
+Free Text:MPTO_GATE\705:freetext
+Free Text:MPTO_GATE\706:freetext
+Free Text:MPTO_GATE\706W:freetext
+Free Text:MPTO_GATE\708:freetext
+Free Text:MPTO_GATE\709:freetext
+Free Text:MPTO_GATE\710:freetext
+Free Text:MPTO_GATE\711:freetext
+Free Text:MPTO_GATE\712:freetext
+Free Text:MPTO_GATE\713:freetext
+Free Text:MPTO_TWY\A:freetext
+Free Text:MPTO_TWY\A:freetext
+Free Text:MPTO_TWY\A1:freetext
+Free Text:MPTO_TWY\B:freetext
+Free Text:MPTO_TWY\D:freetext
+Free Text:MPTO_TWY\E:freetext
+Free Text:MPTO_TWY\E:freetext
+Free Text:MPTO_TWY\E:freetext
+Free Text:MPTO_TWY\E1:freetext
+Free Text:MPTO_TWY\E2:freetext
+Free Text:MPTO_TWY\F:freetext
+Free Text:MPTO_TWY\G:freetext
+Free Text:MPTO_TWY\G:freetext
+Free Text:MPTO_TWY\G:freetext
+Free Text:MPTO_TWY\H:freetext
+Free Text:MPTO_TWY\H:freetext
+Free Text:MPTO_TWY\J:freetext
+Free Text:MPTO_TWY\J:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\M:freetext
+Free Text:MPTO_TWY\M:freetext
+Free Text:MPTO_TWY\M:freetext
+Free Text:MPTO_TWY\Q:freetext
+Free Text:MPTO_TWY\Q:freetext
+Free Text:MPTO_TWY\S3/2/1:freetext
+Free Text:MPTO_TWY\S7/6/5:freetext
+Free Text:MPTO_TWY\S8:freetext
+Free Text:MPTO_TWY\T:freetext
+Geo:GEO:
+Geo:MPTO:
+Regions:MPTO_POLY_3LTDZ:polygon
+Regions:MPTO_POLY_3RTDZ:polygon
+Regions:MPTO_POLY_APN1:polygon
+Regions:MPTO_POLY_APN2:polygon
+Regions:MPTO_POLY_APN3:polygon
+Regions:MPTO_POLY_APN4:polygon
+Regions:MPTO_POLY_APN5:polygon
+Regions:MPTO_POLY_GRASS_H1:polygon
+Regions:MPTO_POLY_GRASS_LOW:polygon
+Regions:MPTO_POLY_GRASSH2:polygon
+Regions:MPTO_POLY_RWY3L:polygon
+Regions:MPTO_POLY_RWY3R:polygon
+Regions:MPTO_POLY_TERM:polygon
+Regions:MPTO_POLY_TWY:polygon
+Runways:MPTO 03L-21R:name
+Runways:MPTO 03R-21L:name
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:800
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)
+WINDOWAREA:9.056620:-79.399980:9.075610:-79.369022
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:350
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:255,255,255
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:5
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:412
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:445
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA

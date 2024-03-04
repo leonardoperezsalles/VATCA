@@ -1,0 +1,170 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\leona\OneDrive\VATCA-2302\PanamaFIR\MPZL.sct
+SECTORTITLE:MPZL.sct
+ARTCC boundary:MPDA_MVA:
+ARTCC boundary:MPTO_MVA:
+ARTCC boundary:MPZL_CTR:
+ARTCC high boundary:MPTO_APP:
+Fixes:ARMIS:name
+Fixes:ARMIS:symbol
+Fixes:BOBUD:name
+Fixes:BOBUD:symbol
+Fixes:DA402:name
+Fixes:DA402:symbol
+Fixes:DILAK:symbol
+Fixes:EGDON:name
+Fixes:EGDON:symbol
+Fixes:ENLIX:name
+Fixes:ENLIX:symbol
+Fixes:ENRIG:name
+Fixes:ENRIG:symbol
+Fixes:ERUMO:name
+Fixes:ERUMO:symbol
+Fixes:ESIPI:name
+Fixes:ESIPI:symbol
+Fixes:ESLEK:name
+Fixes:ESLEK:symbol
+Fixes:ETIKA:name
+Fixes:ETIKA:symbol
+Fixes:IROLU:name
+Fixes:IROLU:symbol
+Fixes:IRUSO:name
+Fixes:IRUSO:symbol
+Fixes:ISOKO:name
+Fixes:ISOKO:symbol
+Fixes:KIBIL:name
+Fixes:KIBIL:symbol
+Fixes:KIMEX:name
+Fixes:KIMEX:symbol
+Fixes:KOMDI:name
+Fixes:KOMDI:symbol
+Fixes:LAMBI:symbol
+Fixes:MALEK:name
+Fixes:MALEK:symbol
+Fixes:MARLU:name
+Fixes:MARLU:symbol
+Fixes:MUDEN:name
+Fixes:MUDEN:symbol
+Fixes:NELEX:name
+Fixes:NELEX:symbol
+Fixes:OSIMA:name
+Fixes:OSIMA:symbol
+Fixes:OSUPA:name
+Fixes:OSUPA:symbol
+Fixes:OVTUL:name
+Fixes:OVTUL:symbol
+Fixes:PITNE:name
+Fixes:PITNE:symbol
+Fixes:REMEM:name
+Fixes:REMEM:symbol
+Fixes:REPAL:name
+Fixes:REPAL:symbol
+Fixes:SIMIX:name
+Fixes:SIMIX:symbol
+Fixes:SIRIL:name
+Fixes:SIRIL:symbol
+Fixes:TOROG:name
+Fixes:TOROG:symbol
+Fixes:UGETO:name
+Fixes:UGETO:symbol
+Fixes:UGIBA:name
+Fixes:UGIBA:symbol
+Fixes:UREMO:name
+Fixes:UREMO:symbol
+Fixes:USANI:name
+Fixes:USANI:symbol
+Fixes:VUMAN:name
+Fixes:VUMAN:symbol
+Free Text:MPTOMVAs\16:freetext
+Free Text:MPTOMVAs\19:freetext
+Free Text:MPTOMVAs\21:freetext
+Free Text:MPTOMVAs\21:freetext
+Free Text:MPTOMVAs\23:freetext
+Free Text:MPTOMVAs\29:freetext
+Free Text:MPTOMVAs\30:freetext
+Free Text:MPTOMVAs\32:freetext
+Free Text:MPTOMVAs\40:freetext
+Free Text:MPTOMVAs\41:freetext
+Free Text:MPTOMVAs\50:freetext
+Free Text:MPTOMVAs\50:freetext
+Free Text:MPTOMVAs\60:freetext
+Free Text:SCT2\136:freetext
+Free Text:SCT2\16:freetext
+Free Text:SCT2\19:freetext
+Free Text:SCT2\19:freetext
+Free Text:SCT2\21:freetext
+Free Text:SCT2\21:freetext
+Free Text:SCT2\23:freetext
+Free Text:SCT2\28:freetext
+Free Text:SCT2\29:freetext
+Free Text:SCT2\30:freetext
+Free Text:SCT2\32:freetext
+Free Text:SCT2\34:freetext
+Free Text:SCT2\35:freetext
+Free Text:SCT2\39:freetext
+Free Text:SCT2\40:freetext
+Free Text:SCT2\41:freetext
+Free Text:SCT2\41:freetext
+Free Text:SCT2\50:freetext
+Free Text:SCT2\50:freetext
+Free Text:SCT2\53:freetext
+Free Text:SCT2\60:freetext
+Free Text:SCT2\96:freetext
+Free Text:SCT2\99:freetext
+Geo:Coast Line:
+Geo:GEO:
+Runways:MPBO 09-27:centerline
+Runways:MPBO 09-27:extended centerline 1
+Runways:MPBO 09-27:extended centerline 2
+Runways:MPDA 04-22:centerline
+Runways:MPEJ 18-36:centerline
+Runways:MPEJ 18-36:extended centerline 1
+Runways:MPEJ 18-36:extended centerline 2
+Runways:MPMG 01-19:centerline
+Runways:MPMG 01-19:extended centerline 1
+Runways:MPPA 18-36:centerline
+Runways:MPPA 18-36:extended centerline 2
+Runways:MPSM 17-35:centerline
+Runways:MPSM 17-35:extended centerline 2
+Runways:MPTO 03L-21R:centerline
+Runways:MPTO 03L-21R:extended centerline 1
+Runways:MPTO 03R-21L:centerline
+Runways:MPTO 03R-21L:extended centerline 1
+Stars:1MPTO_TRANS_ARRS:
+Stars:MPTO_21R:
+Stars:RNAV_MPDA_04:
+Stars:RNAV_MPTO_21R:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:6
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:7.933720:-81.287011:9.794888:-78.252768
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:349
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:28,255,28
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:0
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:1
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:1
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA

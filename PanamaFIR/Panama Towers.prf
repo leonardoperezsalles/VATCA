@@ -1,0 +1,50 @@
+Settings	sector	\MPZL.sct
+LastSession	connecttype	0
+LastSession	realname	
+LastSession	certificate	
+LastSession	password	
+LastSession	facility	4
+LastSession	rating	
+LastSession	server	USA-EAST
+LastSession	tovatsim	1
+LastSession	atis2	Tocumen Tower
+LastSession	range	50
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin0	\DiscordEuroscope.dll
+Settings	SettingsfileSYMBOLOGY	\mastersettings.txt
+Settings	SettingsfileVOICE	\mastersettings.txt
+Settings	SettingsfilePROFILE	\mastersettings.txt
+Settings	SettingsfileTAGS	\mastersettings.txt
+Settings	SettingsfileSIL	\mastersettings.txt
+Settings	SettingsfileSEL	\mastersettings.txt
+Settings	SettingsfileDEP	\mastersettings.txt
+Settings	SettingsfileARR	\mastersettings.txt
+Settings	SettingsfileFP	\mastersettings.txt
+Settings	SettingsfilePLUGINS	\mastersettings.txt
+Settings	Settingsfile	\mastersettings.txt
+Settings	SettingsfileSCREEN	\mastersettings.txt
+Settings	SettingsfileCONFLICT	\mastersettings.txt
+Settings	SettingsfileVCCS	\mastersettings.txt
+Settings	SettingsfilePILOTING	\mastersettings.txt
+RecentFiles	Recent1	\Panamatower.asr
+RecentFiles	Recent2	\mpsm_gnd.asr
+RecentFiles	Recent3	\mptoapp.asr
+RecentFiles	Recent4	\mpzlctr.asr
+RecentFiles	Recent5	\mptognd.asr
+RecentFiles	Recent6	\mpda_gnd.asr
+RecentFiles	Recent7	\mpbo_gnd.asr
+RecentFiles	Recent8	\mpmg_gnd.asr
+RecentFiles	Recent9	\mpbo_ATZ.asr
+RecentFiles	Recent10	\mpda_atz.asr
+RecentFiles	Recent11	\mpsm_atz.asr
+LastSession	atis_airport	MPTO
+LastSession	atis_letter	65
+Voice	output_hardware	DirectSound - Speakers (Intel SST Audio Device (WDM))
+Voice	output_hardware2	DirectSound - Speakers (Intel SST Audio Device (WDM))
+LastSession	callsign	MPTO_TWR
+Plugins	Plugin1	\UKControllerPlugin.dll
+Plugins	Plugin1Display0	Standard ES radar screen
+LastSession	atis3	English & Spanish

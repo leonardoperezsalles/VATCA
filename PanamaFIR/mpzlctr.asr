@@ -1,0 +1,156 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\leona\OneDrive\VATCA-2302\PanamaFIR\MPZL.sct
+SECTORTITLE:MPZL.sct
+ARTCC boundary:MPZL_CTR:
+ARTCC boundary:SKSP_TMA:
+ARTCC high boundary:MPTO_APP:
+Fixes:AGUJA:name
+Fixes:AGUJA:symbol
+Fixes:ALPON:name
+Fixes:ALPON:symbol
+Fixes:AMUBI:name
+Fixes:AMUBI:symbol
+Fixes:ANSON:name
+Fixes:ANSON:symbol
+Fixes:ARNAL:name
+Fixes:ARNAL:symbol
+Fixes:ARORO:name
+Fixes:ARORO:symbol
+Fixes:ASEPI:name
+Fixes:ASEPI:symbol
+Fixes:BITIX:name
+Fixes:BITIX:symbol
+Fixes:BOGAL:name
+Fixes:BOGAL:symbol
+Fixes:BUFEO:name
+Fixes:BUFEO:symbol
+Fixes:BUSMO:name
+Fixes:BUSMO:symbol
+Fixes:BUXOS:name
+Fixes:BUXOS:symbol
+Fixes:COLBY:name
+Fixes:COLBY:symbol
+Fixes:DAGUD:name
+Fixes:DAGUD:symbol
+Fixes:DAKMO:name
+Fixes:DAKMO:symbol
+Fixes:DURAM:name
+Fixes:DURAM:symbol
+Fixes:DUXUN:name
+Fixes:DUXUN:symbol
+Fixes:EGODI:name
+Fixes:EGODI:symbol
+Fixes:ESEDA:name
+Fixes:ESEDA:symbol
+Fixes:FALLA:name
+Fixes:FALLA:symbol
+Fixes:ILTUR:name
+Fixes:ILTUR:symbol
+Fixes:IRASO:name
+Fixes:IRASO:symbol
+Fixes:ISEBA:name
+Fixes:ISEBA:symbol
+Fixes:ISIMO:name
+Fixes:ISIMO:symbol
+Fixes:IVROS:name
+Fixes:IVROS:symbol
+Fixes:KAKOL:name
+Fixes:KAKOL:symbol
+Fixes:KASOR:name
+Fixes:KASOR:symbol
+Fixes:KUBEK:name
+Fixes:KUBEK:symbol
+Fixes:LESIR:name
+Fixes:LESIR:symbol
+Fixes:LEVOR:name
+Fixes:LEVOR:symbol
+Fixes:MUDEN:name
+Fixes:MUDEN:symbol
+Fixes:OGLUT:name
+Fixes:OGLUT:symbol
+Fixes:PADUR:name
+Fixes:PADUR:symbol
+Fixes:PAPIN:name
+Fixes:PAPIN:symbol
+Fixes:PELRA:name
+Fixes:PELRA:symbol
+Fixes:POXON:name
+Fixes:POXON:symbol
+Fixes:ROKIN:name
+Fixes:ROKIN:symbol
+Fixes:ROPOL:name
+Fixes:ROPOL:symbol
+Fixes:SIDAL:name
+Fixes:SIDAL:symbol
+Fixes:TEKUG:name
+Fixes:TEKUG:symbol
+Fixes:TELAX:name
+Fixes:TELAX:symbol
+Fixes:TILSO:name
+Fixes:TILSO:symbol
+Fixes:TINPA:name
+Fixes:TINPA:symbol
+Fixes:TOKUT:name
+Fixes:TOKUT:symbol
+Fixes:UKLOS:name
+Fixes:UKLOS:symbol
+Fixes:URICA:name
+Fixes:URICA:symbol
+Fixes:USANI:name
+Fixes:USANI:symbol
+Fixes:XAOLA:name
+Fixes:XAOLA:symbol
+Geo:Coast Line:
+Geo:GEO:
+VORs:BDT:name
+VORs:BDT:symbol
+VORs:DAV:name
+VORs:DAV:symbol
+VORs:FNC:name
+VORs:FNC:symbol
+VORs:PML:name
+VORs:PML:symbol
+VORs:RHT:name
+VORs:RHT:symbol
+VORs:SPP:name
+VORs:SPP:symbol
+VORs:STG:name
+VORs:STG:symbol
+VORs:TBG:name
+VORs:TBG:symbol
+VORs:TUM:name
+VORs:TUM:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:20
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:2.872397:-92.074007:14.594325:-72.963870
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:349
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:0,0,0
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:0
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:1
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:0
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:778
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:126
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
