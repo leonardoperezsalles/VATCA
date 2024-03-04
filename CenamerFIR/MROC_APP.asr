@@ -1,0 +1,76 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\leona\OneDrive\VATCA-2302\CenamerFIR\CenamerFIR.sct
+SECTORTITLE:CenamerFIR.sct
+ARTCC boundary:MROC_MVA:
+ARTCC boundary:MROC_R_MVA:
+ARTCC high boundary:MRLB_APP:
+ARTCC high boundary:MROC_R_APP:
+Fixes:BARRA:name
+Fixes:BARRA:symbol
+Fixes:COLON:name
+Fixes:COLON:symbol
+Fixes:OROSI:name
+Fixes:OROSI:symbol
+Fixes:OTINA:name
+Fixes:OTINA:symbol
+Fixes:PARZA:name
+Fixes:PARZA:symbol
+Fixes:TABAR:name
+Fixes:TABAR:symbol
+Fixes:MATOS:name
+Fixes:MATOS:symbol
+Fixes:TURRU:name
+Fixes:TURRU:symbol
+Free Text:SCT2\100:freetext
+Free Text:SCT2\110:freetext
+Free Text:SCT2\120:freetext
+Free Text:SCT2\120:freetext
+Free Text:SCT2\125:freetext
+Free Text:SCT2\125:freetext
+Free Text:SCT2\140:freetext
+Free Text:SCT2\60:freetext
+Free Text:SCT2\66:freetext
+Free Text:SCT2\70:freetext
+Free Text:SCT2\70:freetext
+Free Text:SCT2\80:freetext
+Free Text:SCT2\90:freetext
+Free Text:SCT2\90:freetext
+Free Text:SCT2\90:freetext
+Geo:CostaRica_shore:
+Geo:CR_Political_Borders:
+Stars:MROC_ILSZ_07:
+Stars:MROC_RNAV_25:
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:10
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:COCO_RADAR
+WINDOWAREA:8.744759:-86.461620:11.316968:-82.226856
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:349
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:28,255,28
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:1
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA

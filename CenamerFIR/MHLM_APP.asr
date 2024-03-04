@@ -1,0 +1,211 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\leona\OneDrive\VATCA-2302\CenamerFIR\CenamerFIR.sct
+SECTORTITLE:CenamerFIR.sct
+ARTCC boundary:MGGT_MVA:
+ARTCC boundary:MHCC_OCEANIC:
+ARTCC boundary:MHLM_MVA:
+ARTCC boundary:MHTG_CTR:
+ARTCC boundary:MNMG_MVA:
+ARTCC boundary:MRLB_MVA:
+ARTCC boundary:MROC_MVA:
+ARTCC boundary:MROC_R_MVA:
+ARTCC boundary:MSLP_MVA:
+ARTCC boundary:MZBZ_MVA:
+Fixes:LM001:name
+Fixes:LM001:symbol
+Fixes:LM002:name
+Fixes:LM002:symbol
+Fixes:LM003:name
+Fixes:LM003:symbol
+Fixes:LM008:name
+Fixes:LM008:symbol
+Free Text:MGGT\A:freetext
+Free Text:MGGT\B:freetext
+Free Text:MGGT\C:freetext
+Free Text:MGGT\D:freetext
+Free Text:MGGT\F:freetext
+Free Text:MGGT\F1:freetext
+Free Text:MGGT\G:freetext
+Free Text:MGGT\I:freetext
+Free Text:MGGT\J:freetext
+Free Text:MGGT\K:freetext
+Free Text:MGGT\L:freetext
+Free Text:MGGT\M:freetext
+Free Text:MGGT\O:freetext
+Free Text:MGGT\R:freetext
+Free Text:MGGT\S:freetext
+Free Text:MGGT\T:freetext
+Free Text:MGGT\U:freetext
+Free Text:MGGT\Y:freetext
+Free Text:MGGT_MVAs\100:freetext
+Free Text:MGGT_MVAs\100:freetext
+Free Text:MGGT_MVAs\105:freetext
+Free Text:MGGT_MVAs\110:freetext
+Free Text:MGGT_MVAs\110:freetext
+Free Text:MGGT_MVAs\120:freetext
+Free Text:MGGT_MVAs\150:freetext
+Free Text:MGGT_MVAs\60:freetext
+Free Text:MGGT_MVAs\70:freetext
+Free Text:MGGT_MVAs\72:freetext
+Free Text:MGGT_MVAs\80:freetext
+Free Text:MGGT_MVAs\80:freetext
+Free Text:MGGT_MVAs\85:freetext
+Free Text:MGGT_MVAs\90:freetext
+Free Text:MGGT_MVAs\90:freetext
+Free Text:MGGT_MVAs\90:freetext
+Free Text:MGGT_MVAs\90:freetext
+Free Text:MGGT_MVAs\95:freetext
+Free Text:MHLC\TERMINAL:freetext
+Free Text:MHLM_MVAs\11000:freetext
+Free Text:MHLM_MVAs\3200:freetext
+Free Text:MHLM_MVAs\4800:freetext
+Free Text:MHLM_MVAs\4800:freetext
+Free Text:MHLM_MVAs\6100:freetext
+Free Text:MHLM_MVAs\7800:freetext
+Free Text:MHLM_MVAs\8300:freetext
+Free Text:MHLM_MVAs\8400:freetext
+Free Text:MHLM_MVAs\8900:freetext
+Free Text:MHLM_MVAs\9500:freetext
+Free Text:MHLM_MVAs\9700:freetext
+Free Text:MHTG_RNAValts\8000:freetext
+Free Text:MHTG_RNAValts\9000:freetext
+Free Text:MNMG\A:freetext
+Free Text:MNMG\B:freetext
+Free Text:MNMG\C:freetext
+Free Text:MNMG\D:freetext
+Free Text:MNMG\F:freetext
+Free Text:MNMG\G:freetext
+Free Text:MNMG\H:freetext
+Free Text:MNMGMVAs\30:freetext
+Free Text:MNMGMVAs\50:freetext
+Free Text:MNMGMVAs\60:freetext
+Free Text:MNMGMVAs\60:freetext
+Free Text:MNMGMVAs\70:freetext
+Free Text:MNMGMVAs\80:freetext
+Free Text:MNMGMVAs\80:freetext
+Free Text:MRLB\A:freetext
+Free Text:MRLB\B:freetext
+Free Text:MRLB\C:freetext
+Free Text:MRLB_MVAs\30:freetext
+Free Text:MRLB_MVAs\35:freetext
+Free Text:MRLB_MVAs\53:freetext
+Free Text:MRLB_MVAs\67:freetext
+Free Text:MRLB_MVAs\76:freetext
+Free Text:MRLB_MVAs\87:freetext
+Free Text:MROC\A:freetext
+Free Text:MROC\B:freetext
+Free Text:MROC\B:freetext
+Free Text:MROC\C:freetext
+Free Text:MROC\D:freetext
+Free Text:MROC\E:freetext
+Free Text:MROC\F:freetext
+Free Text:MROC\G:freetext
+Free Text:MROC\J:freetext
+Free Text:MROC\K:freetext
+Free Text:MROC\L:freetext
+Free Text:MROC\M:freetext
+Free Text:MROC_R_MVAs\100:freetext
+Free Text:MROC_R_MVAs\120:freetext
+Free Text:MROC_R_MVAs\125:freetext
+Free Text:MROC_R_MVAs\140:freetext
+Free Text:MROC_R_MVAs\60:freetext
+Free Text:MROC_R_MVAs\90:freetext
+Free Text:MROCMVAs\110:freetext
+Free Text:MROCMVAs\120:freetext
+Free Text:MROCMVAs\125:freetext
+Free Text:MROCMVAs\66:freetext
+Free Text:MROCMVAs\70:freetext
+Free Text:MROCMVAs\70:freetext
+Free Text:MROCMVAs\80:freetext
+Free Text:MROCMVAs\90:freetext
+Free Text:MROCMVAs\90:freetext
+Free Text:MSLP\A:freetext
+Free Text:MSLP\B:freetext
+Free Text:MSLP\C:freetext
+Free Text:MSLP\D:freetext
+Free Text:MSLP\E:freetext
+Free Text:MSLP_MVAs\20:freetext
+Free Text:MSLP_MVAs\25:freetext
+Free Text:MSLP_MVAs\25:freetext
+Free Text:MSLP_MVAs\30:freetext
+Free Text:MSLP_MVAs\34:freetext
+Free Text:MSLP_MVAs\40:freetext
+Free Text:MSLP_MVAs\40:freetext
+Free Text:MSLP_MVAs\53:freetext
+Free Text:MSLP_MVAs\60:freetext
+Free Text:MSLP_MVAs\67:freetext
+Free Text:MSLP_MVAs\69:freetext
+Free Text:MSLP_MVAs\80:freetext
+Free Text:MSLP_MVAs\80:freetext
+Free Text:MSLP_MVAs\90:freetext
+Free Text:MSLP_MVAs\92:freetext
+Free Text:MSLP_MVAs\94:freetext
+Free Text:MSLP_MVAs\98:freetext
+Free Text:MZBZ\A:freetext
+Free Text:MZBZ\B:freetext
+Free Text:MZBZ\C:freetext
+Free Text:MZBZMVAs\16:freetext
+Free Text:MZBZMVAs\20:freetext
+Free Text:SCT2\100:freetext
+Free Text:SCT2\110:freetext
+Free Text:SCT2\120:freetext
+Free Text:SCT2\120:freetext
+Free Text:SCT2\125:freetext
+Free Text:SCT2\125:freetext
+Free Text:SCT2\140:freetext
+Free Text:SCT2\30:freetext
+Free Text:SCT2\35:freetext
+Free Text:SCT2\53:freetext
+Free Text:SCT2\60:freetext
+Free Text:SCT2\66:freetext
+Free Text:SCT2\67:freetext
+Free Text:SCT2\70:freetext
+Free Text:SCT2\70:freetext
+Free Text:SCT2\76:freetext
+Free Text:SCT2\80:freetext
+Free Text:SCT2\87:freetext
+Free Text:SCT2\90:freetext
+Free Text:SCT2\90:freetext
+Free Text:SCT2\90:freetext
+Geo:Political_Borders:
+Runways:MHLM RAMON VILLEDA MORALES IN 04-22:centerline
+Runways:MHLM RAMON VILLEDA MORALES IN 04-22:extended centerline 2
+Runways:MHLM RAMON VILLEDA MORALES IN 04-22:extended centerline 2 left ticks
+Runways:MHLM RAMON VILLEDA MORALES IN 04-22:extended centerline 2 left vectoring
+Runways:MHLM RAMON VILLEDA MORALES IN 04-22:extended centerline 2 right ticks
+Runways:MHLM RAMON VILLEDA MORALES IN 04-22:extended centerline 2 right vectoring
+Runways:MHLM RAMON VILLEDA MORALES IN 04-22:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:14.771195:-88.932390:16.199739:-86.580501
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:350
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:28,255,28
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:1
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA

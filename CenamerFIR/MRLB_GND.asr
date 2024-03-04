@@ -1,0 +1,171 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Leo\OneDrive\VATCA-2302\CenamerFIR\CenamerFIR.sct
+SECTORTITLE:CenamerFIR.sct
+ARTCC boundary:MHTG_CTR:
+ARTCC boundary:MHTG_E_CTR:
+ARTCC boundary:MHTG_N_CTR:
+ARTCC boundary:MHTG_S_CTR:
+ARTCC high boundary:MRLB_APP:
+DisplayRotation:0.00000:
+Fixes:AGUJA:name
+Fixes:AGUJA:symbol
+Fixes:ALPON:name
+Fixes:ALPON:symbol
+Fixes:AMUBI:name
+Fixes:AMUBI:symbol
+Fixes:ANSON:name
+Fixes:ANSON:symbol
+Fixes:ARNAL:name
+Fixes:ARNAL:symbol
+Fixes:ARORO:name
+Fixes:ARORO:symbol
+Fixes:ASEPI:name
+Fixes:ASEPI:symbol
+Fixes:ASIBO:name
+Fixes:ASIBO:symbol
+Fixes:BITIX:name
+Fixes:BITIX:symbol
+Fixes:BOGAL:name
+Fixes:BOGAL:symbol
+Fixes:BUFEO:name
+Fixes:BUFEO:symbol
+Fixes:BUSMO:name
+Fixes:BUSMO:symbol
+Fixes:BUXOS:name
+Fixes:BUXOS:symbol
+Fixes:COLBY:name
+Fixes:COLBY:symbol
+Fixes:DABON:name
+Fixes:DABON:symbol
+Fixes:DAGAS:name
+Fixes:DAGAS:symbol
+Fixes:DAGUD:name
+Fixes:DAGUD:symbol
+Fixes:DAKMO:name
+Fixes:DAKMO:symbol
+Fixes:DURAM:name
+Fixes:DURAM:symbol
+Fixes:DUXUN:name
+Fixes:DUXUN:symbol
+Fixes:EGODI:name
+Fixes:EGODI:symbol
+Fixes:ENPAN:name
+Fixes:ENPAN:symbol
+Fixes:ESEDA:name
+Fixes:ESEDA:symbol
+Fixes:FALLA:name
+Fixes:FALLA:symbol
+Fixes:FRANK:name
+Fixes:FRANK:symbol
+Fixes:ILTUR:name
+Fixes:ILTUR:symbol
+Fixes:IRASO:name
+Fixes:IRASO:symbol
+Fixes:ISEBA:name
+Fixes:ISEBA:symbol
+Fixes:ISIMO:name
+Fixes:ISIMO:symbol
+Fixes:IVROS:name
+Fixes:IVROS:symbol
+Fixes:KASOR:name
+Fixes:KASOR:symbol
+Fixes:KIKOL:name
+Fixes:KIKOL:symbol
+Fixes:KUBEK:name
+Fixes:KUBEK:symbol
+Fixes:LESIR:name
+Fixes:LESIR:symbol
+Fixes:LEVOR:name
+Fixes:LEVOR:symbol
+Fixes:LIVUD:name
+Fixes:LIVUD:symbol
+Fixes:MANBO:name
+Fixes:MANBO:symbol
+Fixes:OGLUT:name
+Fixes:OGLUT:symbol
+Fixes:OGRUL:name
+Fixes:OGRUL:symbol
+Fixes:OPKOL:name
+Fixes:OPKOL:symbol
+Fixes:PADUR:name
+Fixes:PADUR:symbol
+Fixes:PAKOP:name
+Fixes:PAKOP:symbol
+Fixes:PAPIN:name
+Fixes:PAPIN:symbol
+Fixes:PELRA:name
+Fixes:PELRA:symbol
+Fixes:POXON:name
+Fixes:POXON:symbol
+Fixes:RODAX:name
+Fixes:RODAX:symbol
+Fixes:ROKIN:name
+Fixes:ROKIN:symbol
+Fixes:ROPOL:name
+Fixes:ROPOL:symbol
+Fixes:SEKMA:name
+Fixes:SEKMA:symbol
+Fixes:SIROT:name
+Fixes:SIROT:symbol
+Fixes:TEKUG:name
+Fixes:TEKUG:symbol
+Fixes:TELAX:name
+Fixes:TELAX:symbol
+Fixes:TILSO:name
+Fixes:TILSO:symbol
+Fixes:TIMRO:name
+Fixes:TIMRO:symbol
+Fixes:TINPA:name
+Fixes:TINPA:symbol
+Fixes:TIRNA:name
+Fixes:TIRNA:symbol
+Fixes:TOKUT:name
+Fixes:TOKUT:symbol
+Fixes:UKLOS:name
+Fixes:UKLOS:symbol
+Fixes:URICA:name
+Fixes:URICA:symbol
+Fixes:XAOLA:name
+Fixes:XAOLA:symbol
+Free Text:MRLB\A:freetext
+Free Text:MRLB\B:freetext
+Free Text:MRLB\C:freetext
+Geo:MRLB:
+Runways:MRLB DANIEL ODUBER QUIROS INT 07-25:name
+VORs:RHT:frequency
+VORs:RHT:name
+VORs:RHT:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:0
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:4
+DISABLEPANNING:1
+DISABLEZOOMING:1
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:10.584225:-85.567187:10.605668:-85.524817
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:349
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:28,255,28
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:5
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:0
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:778
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:126
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA

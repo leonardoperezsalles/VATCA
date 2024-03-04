@@ -1,0 +1,48 @@
+Settings	sector	\CenamerFIR.sct
+LastSession	connecttype	0
+LastSession	realname	
+LastSession	certificate	
+LastSession	password	
+LastSession	facility	6
+LastSession	rating	9
+LastSession	server	AUTOMATIC
+LastSession	tovatsim	1
+LastSession	range	600
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+Settings	AselKey	5111808
+Settings	FreqKey	3604480
+Plugins	Plugin0	C:\Users\Patrick\Documents\VATCA\DiscordEuroscope.dll
+Settings	SettingsfileSYMBOLOGY	\mastersettingsmhtg.txt
+Settings	SettingsfileVOICE	\mastersettingsmhtg.txt
+Settings	SettingsfilePROFILE	\mastersettingsmhtg.txt
+Settings	SettingsfileTAGS	\TAGSetUp.txt
+Settings	SettingsfileSIL	\mastersettingsmhtg.txt
+Settings	SettingsfileSEL	\mastersettingsmhtg.txt
+Settings	SettingsfileDEP	\mastersettingsmhtg.txt
+Settings	SettingsfileARR	\mastersettingsmhtg.txt
+Settings	SettingsfileFP	\mastersettingsmhtg.txt
+Settings	SettingsfilePLUGINS	\mastersettingsmhtg.txt
+Settings	Settingsfile	\mastersettingsmhtg.txt
+Settings	SettingsfileSCREEN	\mastersettingsmhtg.txt
+Settings	SettingsfileCONFLICT	\mastersettingsmhtg.txt
+Settings	SettingsfileVCCS	\mastersettingsmhtg.txt
+Settings	SettingsfilePILOTING	\mastersettingsmhtg.txt
+RecentFiles	Recent1	\mhcc.asr
+RecentFiles	Recent2	\MSLP_APP.asr
+RecentFiles	Recent3	\MHTG_APP.asr
+RecentFiles	Recent4	\MHRO_ATSAPP.asr
+RecentFiles	Recent5	\MROC_GND.asr
+RecentFiles	Recent6	\MROC_APP.asr
+RecentFiles	Recent7	\MSLP_GND.asr
+RecentFiles	Recent8	\MGGT_GND.asr
+RecentFiles	Recent9	\MHLC_GND.asr
+RecentFiles	Recent10	\MHTG_GND.asr
+RecentFiles	Recent11	\MGGT_APP.asr
+LastSession	atis_airport	MPTO
+LastSession	atis_letter	67
+LastSession	callsign	MHCC_CTR
+LastSession	atis2	Cenamer Control
+LastSession	atis4	vatca.online
+LastSession	atis3	English & Spanish
+LastSession	scenario	C:\Users\Leo\Desktop\Ejercicios Sweatbox\Sweatbox MROC\MROC\ScenarioMROC1.2.txt

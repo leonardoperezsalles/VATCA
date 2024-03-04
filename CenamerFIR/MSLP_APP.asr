@@ -1,0 +1,75 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Leo\OneDrive\VATCA-2302\CenamerFIR\CenamerFIR.sct
+SECTORTITLE:CenamerFIR.sct
+ARTCC boundary:MHTG_CTR:
+ARTCC boundary:MSLP_MVA:
+Free Text:MSLP_MVAs\062:freetext
+Free Text:MSLP_MVAs\110:freetext
+Free Text:MSLP_MVAs\20:freetext
+Free Text:MSLP_MVAs\25:freetext
+Free Text:MSLP_MVAs\25:freetext
+Free Text:MSLP_MVAs\30:freetext
+Free Text:MSLP_MVAs\34:freetext
+Free Text:MSLP_MVAs\40:freetext
+Free Text:MSLP_MVAs\40:freetext
+Free Text:MSLP_MVAs\53:freetext
+Free Text:MSLP_MVAs\60:freetext
+Free Text:MSLP_MVAs\67:freetext
+Free Text:MSLP_MVAs\69:freetext
+Free Text:MSLP_MVAs\80:freetext
+Free Text:MSLP_MVAs\80:freetext
+Free Text:MSLP_MVAs\90:freetext
+Free Text:MSLP_MVAs\92:freetext
+Free Text:MSLP_MVAs\94:freetext
+Free Text:MSLP_MVAs\98:freetext
+Geo:Coast Line:
+Geo:GEO:
+Runways:MSLP EL SALVADOR INTL MONS OS 07-25:centerline
+Runways:MSLP EL SALVADOR INTL MONS OS 07-25:extended centerline 1
+Runways:MSLP EL SALVADOR INTL MONS OS 07-25:extended centerline 1 left ticks
+Runways:MSLP EL SALVADOR INTL MONS OS 07-25:extended centerline 1 right ticks
+Runways:MSLP EL SALVADOR INTL MONS OS 07-25:extended centerline 2
+Runways:MSLP EL SALVADOR INTL MONS OS 07-25:extended centerline 2 left ticks
+Runways:MSLP EL SALVADOR INTL MONS OS 07-25:extended centerline 2 right ticks
+Runways:MSSS ILOPANGO INTL 15-33:centerline
+Runways:MSSS ILOPANGO INTL 15-33:extended centerline 1
+Runways:MSSS ILOPANGO INTL 15-33:extended centerline 1 left ticks
+Runways:MSSS ILOPANGO INTL 15-33:extended centerline 1 right ticks
+VORs:CAT:name
+VORs:CAT:symbol
+VORs:YSV:name
+VORs:YSV:symbol
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:12.617720:-91.347307:14.593489:-87.443307
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:349
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:28,255,28
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:1
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:0
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:778
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:126
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA

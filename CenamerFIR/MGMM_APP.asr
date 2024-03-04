@@ -1,0 +1,61 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\Patrick\Documents\VATCA\Cenamer\CenamerFIR.sct
+SECTORTITLE:CenamerFIR.sct
+ARTCC high boundary:MGMM_APP:
+Fixes:ALIGO:name
+Fixes:ALIGO:symbol
+Fixes:AMARU:name
+Fixes:AMARU:symbol
+Fixes:BATUN:name
+Fixes:BATUN:symbol
+Fixes:EMEMA:name
+Fixes:EMEMA:symbol
+Fixes:TADIN:name
+Fixes:TADIN:symbol
+Fixes:TUCAN:name
+Fixes:TUCAN:symbol
+Geo:Coast Line:
+Geo:Political_Borders:
+Runways:MGMM MUNDO MAYA INTL 10-28:centerline
+Runways:MGMM MUNDO MAYA INTL 10-28:extended centerline 1
+Runways:MGMM MUNDO MAYA INTL 10-28:extended centerline 1 left ticks
+Runways:MGMM MUNDO MAYA INTL 10-28:extended centerline 1 right ticks
+Runways:MGMM MUNDO MAYA INTL 10-28:extended centerline 2
+Runways:MGMM MUNDO MAYA INTL 10-28:extended centerline 2 left ticks
+Runways:MGMM MUNDO MAYA INTL 10-28:extended centerline 2 right ticks
+Runways:MGMM MUNDO MAYA INTL 10-28:name
+SHOWC:1
+SHOWSB:0
+BELOW:0
+ABOVE:0
+LEADER:0
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:0
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:16.299678:-91.220114:17.489940:-89.002506
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:350
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:28,255,28
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:1
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
