@@ -1,13 +1,10 @@
 Settings	sector	\MPZL.sct
 LastSession	connecttype	0
-LastSession	realname	
-LastSession	certificate	
-LastSession	password	
 LastSession	facility	6
-LastSession	rating	7
+LastSession	rating	3
 LastSession	server	AUTOMATIC
 LastSession	tovatsim	1
-LastSession	atis2	Panama Control
+LastSession	atis2	Panama Control - Operating on a Solo Cert
 LastSession	range	600
 LastSession	proxyserver	localhost
 LastSession	simdatapublish	0
@@ -29,9 +26,9 @@ Settings	SettingsfileSCREEN	\mastersettings.txt
 Settings	SettingsfileCONFLICT	\mastersettings.txt
 Settings	SettingsfileVCCS	\mastersettings.txt
 Settings	SettingsfilePILOTING	\mastersettings.txt
-RecentFiles	Recent1	\mptognd.asr
-RecentFiles	Recent2	\mpzlctr.asr
-RecentFiles	Recent3	\mptoapp.asr
+RecentFiles	Recent1	\mpzlctr.asr
+RecentFiles	Recent2	\mptoapp.asr
+RecentFiles	Recent3	\mptognd.asr
 RecentFiles	Recent4	\mpda_gnd.asr
 RecentFiles	Recent5	\mpsm_gnd.asr
 RecentFiles	Recent6	\mpbo_gnd.asr
@@ -43,6 +40,10 @@ Voice	output_hardware2	DirectSound - Speakers (Intel SST Audio Device (WDM))
 LastSession	callsign	MPZL_CTR
 Plugins	Plugin1	\UKControllerPlugin.dll
 Plugins	Plugin1Display0	Standard ES radar screen
-LastSession	atis4	vatca.net
-LastSession	atis3	Englsih & Spanish
+LastSession	atis4	vatca.online
+LastSession	atis3	English & Spanish
 Settings	airways	C:\Users\leona\Downloads\ISEC.txt
+LastSession	atis_freq4	118000
+LastSession	realname	Diogenes G
+LastSession	certificate	1800642
+LastSession	password	wH92dNRdxQ!jAWH

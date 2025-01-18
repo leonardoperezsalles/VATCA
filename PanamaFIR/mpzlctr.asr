@@ -1,17 +1,55 @@
 DisplayTypeName:Standard ES radar screen
 DisplayTypeNeedRadarContent:1
 DisplayTypeGeoReferenced:1
-SECTORFILE:C:\Users\leona\OneDrive\VATCA-2302\PanamaFIR\MPZL.sct
+SECTORFILE:C:\Users\dioge\OneDrive\Documents\Euroscope\VATCA-2501\PanamaFIR\MPZL.sct
 SECTORTITLE:MPZL.sct
+Airports:MPBO:name
+Airports:MPBO:symbol
+Airports:MPBR:name
+Airports:MPBR:symbol
+Airports:MPCE:name
+Airports:MPCE:symbol
+Airports:MPCH:name
+Airports:MPCH:symbol
+Airports:MPDA:name
+Airports:MPDA:symbol
+Airports:MPEJ:name
+Airports:MPEJ:symbol
+Airports:MPMC:name
+Airports:MPMC:symbol
+Airports:MPMG:name
+Airports:MPMG:symbol
+Airports:MPPA:name
+Airports:MPPA:symbol
+Airports:MPPD:name
+Airports:MPPD:symbol
+Airports:MPPN:name
+Airports:MPPN:symbol
+Airports:MPRA:name
+Airports:MPRA:symbol
+Airports:MPSA:name
+Airports:MPSA:symbol
+Airports:MPSM:name
+Airports:MPSM:symbol
+Airports:SKSP:name
+Airports:SKSP:symbol
+ARTCC boundary:MPDA_MVA:
+ARTCC boundary:MPTO_MVA:
 ARTCC boundary:MPZL_CTR:
 ARTCC boundary:SKSP_TMA:
 ARTCC high boundary:MPTO_APP:
 Fixes:AGUJA:name
 Fixes:AGUJA:symbol
+Fixes:AKRIN:name
+Fixes:AKRIN:symbol
+Fixes:AKRUX:name
+Fixes:AKRUX:symbol
 Fixes:ALPON:name
 Fixes:ALPON:symbol
 Fixes:AMUBI:name
 Fixes:AMUBI:symbol
+Fixes:ANGUD:name
+Fixes:ANGUD:symbol
 Fixes:ANSON:name
 Fixes:ANSON:symbol
 Fixes:ARNAL:name
@@ -22,12 +60,20 @@ Fixes:ASEPI:name
 Fixes:ASEPI:symbol
 Fixes:BITIX:name
 Fixes:BITIX:symbol
+Fixes:BITOR:name
+Fixes:BITOR:symbol
+Fixes:BOBUD:name
+Fixes:BOBUD:symbol
 Fixes:BOGAL:name
 Fixes:BOGAL:symbol
+Fixes:BOGOX:name
+Fixes:BOGOX:symbol
 Fixes:BUFEO:name
 Fixes:BUFEO:symbol
 Fixes:BUSMO:name
 Fixes:BUSMO:symbol
+Fixes:BUSUN:name
+Fixes:BUSUN:symbol
 Fixes:BUXOS:name
 Fixes:BUXOS:symbol
 Fixes:COLBY:name
@@ -38,22 +84,32 @@ Fixes:DAKMO:name
 Fixes:DAKMO:symbol
 Fixes:DURAM:name
 Fixes:DURAM:symbol
-Fixes:DUXUN:name
-Fixes:DUXUN:symbol
 Fixes:EGODI:name
 Fixes:EGODI:symbol
 Fixes:ESEDA:name
 Fixes:ESEDA:symbol
 Fixes:FALLA:name
 Fixes:FALLA:symbol
+Fixes:GEMUG:name
+Fixes:GEMUG:symbol
 Fixes:ILTUR:name
 Fixes:ILTUR:symbol
 Fixes:IRASO:name
 Fixes:IRASO:symbol
+Fixes:IRATA:name
+Fixes:IRATA:symbol
+Fixes:IRUSO:name
+Fixes:IRUSO:symbol
 Fixes:ISEBA:name
 Fixes:ISEBA:symbol
 Fixes:ISIMO:name
 Fixes:ISIMO:symbol
+Fixes:ISOKO:name
+Fixes:ISOKO:symbol
+Fixes:ISUMI:name
+Fixes:ISUMI:symbol
+Fixes:ITEDO:name
+Fixes:ITEDO:symbol
 Fixes:IVROS:name
 Fixes:IVROS:symbol
 Fixes:KAKOL:name
@@ -62,14 +118,30 @@ Fixes:KASOR:name
 Fixes:KASOR:symbol
 Fixes:KUBEK:name
 Fixes:KUBEK:symbol
+Fixes:KUDEL:name
+Fixes:KUDEL:symbol
 Fixes:LESIR:name
 Fixes:LESIR:symbol
 Fixes:LEVOR:name
 Fixes:LEVOR:symbol
+Fixes:LOGAD:name
+Fixes:LOGAD:symbol
+Fixes:MEVID:name
+Fixes:MEVID:symbol
+Fixes:MILAT:name
+Fixes:MILAT:symbol
 Fixes:MUDEN:name
 Fixes:MUDEN:symbol
+Fixes:NELEX:name
+Fixes:NELEX:symbol
 Fixes:OGLUT:name
 Fixes:OGLUT:symbol
+Fixes:OSAVI:name
+Fixes:OSAVI:symbol
+Fixes:OSUPA:name
+Fixes:OSUPA:symbol
+Fixes:OVTUL:name
+Fixes:OVTUL:symbol
 Fixes:PADUR:name
 Fixes:PADUR:symbol
 Fixes:PAPIN:name
@@ -78,63 +150,547 @@ Fixes:PELRA:name
 Fixes:PELRA:symbol
 Fixes:POXON:name
 Fixes:POXON:symbol
+Fixes:PUDOS:name
+Fixes:PUDOS:symbol
+Fixes:REPAL:name
+Fixes:REPAL:symbol
+Fixes:ROBOD:name
+Fixes:ROBOD:symbol
+Fixes:RODAX:name
+Fixes:RODAX:symbol
 Fixes:ROKIN:name
 Fixes:ROKIN:symbol
 Fixes:ROPOL:name
 Fixes:ROPOL:symbol
+Fixes:SELEK:name
+Fixes:SELEK:symbol
 Fixes:SIDAL:name
 Fixes:SIDAL:symbol
+Fixes:SIRIL:name
+Fixes:SIRIL:symbol
+Fixes:TC105:name
+Fixes:TC105:symbol
+Fixes:TC110:name
+Fixes:TC110:symbol
+Fixes:TC150:name
+Fixes:TC150:symbol
 Fixes:TEKUG:name
 Fixes:TEKUG:symbol
 Fixes:TELAX:name
 Fixes:TELAX:symbol
 Fixes:TILSO:name
 Fixes:TILSO:symbol
+Fixes:TIMRO:name
+Fixes:TIMRO:symbol
 Fixes:TINPA:name
 Fixes:TINPA:symbol
 Fixes:TOKUT:name
 Fixes:TOKUT:symbol
+Fixes:UGIBA:name
+Fixes:UGIBA:symbol
 Fixes:UKLOS:name
 Fixes:UKLOS:symbol
-Fixes:URICA:name
-Fixes:URICA:symbol
 Fixes:USANI:name
 Fixes:USANI:symbol
-Fixes:XAOLA:name
-Fixes:XAOLA:symbol
+Fixes:VALIS:name
+Fixes:VALIS:symbol
+Fixes:VUMAN:name
+Fixes:VUMAN:symbol
+Free Text:MPDA\A:freetext
+Free Text:MPDA\A:freetext
+Free Text:MPDA\A:freetext
+Free Text:MPDA\B:freetext
+Free Text:MPDA\D:freetext
+Free Text:MPDA\E:freetext
+Free Text:MPDA\E:freetext
+Free Text:MPMG\A:freetext
+Free Text:MPMG\A:freetext
+Free Text:MPMG\A:freetext
+Free Text:MPMG\B:freetext
+Free Text:MPMG\C:freetext
+Free Text:MPMG\D:freetext
+Free Text:MPMG\D:freetext
+Free Text:MPMG\E:freetext
+Free Text:MPMG\E:freetext
+Free Text:MPMG\F:freetext
+Free Text:MPMG\G:freetext
+Free Text:MPMG\G:freetext
+Free Text:MPMG\TERMINAL:freetext
+Free Text:MPPA\A:freetext
+Free Text:MPPA\A:freetext
+Free Text:MPPA\A:freetext
+Free Text:MPPA\B:freetext
+Free Text:MPPA\D:freetext
+Free Text:MPPA\E:freetext
+Free Text:MPPA\F:freetext
+Free Text:MPPA\TERMINAL:freetext
+Free Text:MPSM\1:freetext
+Free Text:MPSM\2:freetext
+Free Text:MPSM\3:freetext
+Free Text:MPSM\4:freetext
+Free Text:MPSM\5:freetext
+Free Text:MPSM\6:freetext
+Free Text:MPSM\7:freetext
+Free Text:MPSM\8:freetext
+Free Text:MPSM\A:freetext
+Free Text:MPTO_GATE\101:freetext
+Free Text:MPTO_GATE\102:freetext
+Free Text:MPTO_GATE\103:freetext
+Free Text:MPTO_GATE\106:freetext
+Free Text:MPTO_GATE\107:freetext
+Free Text:MPTO_GATE\108:freetext
+Free Text:MPTO_GATE\109:freetext
+Free Text:MPTO_GATE\110:freetext
+Free Text:MPTO_GATE\111:freetext
+Free Text:MPTO_GATE\112:freetext
+Free Text:MPTO_GATE\114:freetext
+Free Text:MPTO_GATE\115:freetext
+Free Text:MPTO_GATE\120:freetext
+Free Text:MPTO_GATE\120A:freetext
+Free Text:MPTO_GATE\121:freetext
+Free Text:MPTO_GATE\122:freetext
+Free Text:MPTO_GATE\123:freetext
+Free Text:MPTO_GATE\124:freetext
+Free Text:MPTO_GATE\126:freetext
+Free Text:MPTO_GATE\127:freetext
+Free Text:MPTO_GATE\128:freetext
+Free Text:MPTO_GATE\130:freetext
+Free Text:MPTO_GATE\133:freetext
+Free Text:MPTO_GATE\135:freetext
+Free Text:MPTO_GATE\137:freetext
+Free Text:MPTO_GATE\139:freetext
+Free Text:MPTO_GATE\140:freetext
+Free Text:MPTO_GATE\141:freetext
+Free Text:MPTO_GATE\142:freetext
+Free Text:MPTO_GATE\143:freetext
+Free Text:MPTO_GATE\144:freetext
+Free Text:MPTO_GATE\145:freetext
+Free Text:MPTO_GATE\146:freetext
+Free Text:MPTO_GATE\146A:freetext
+Free Text:MPTO_GATE\201:freetext
+Free Text:MPTO_GATE\202:freetext
+Free Text:MPTO_GATE\203:freetext
+Free Text:MPTO_GATE\204:freetext
+Free Text:MPTO_GATE\207:freetext
+Free Text:MPTO_GATE\208:freetext
+Free Text:MPTO_GATE\209:freetext
+Free Text:MPTO_GATE\211:freetext
+Free Text:MPTO_GATE\215:freetext
+Free Text:MPTO_GATE\216:freetext
+Free Text:MPTO_GATE\217:freetext
+Free Text:MPTO_GATE\218:freetext
+Free Text:MPTO_GATE\219:freetext
+Free Text:MPTO_GATE\220:freetext
+Free Text:MPTO_GATE\221:freetext
+Free Text:MPTO_GATE\222:freetext
+Free Text:MPTO_GATE\223:freetext
+Free Text:MPTO_GATE\224:freetext
+Free Text:MPTO_GATE\225:freetext
+Free Text:MPTO_GATE\501:freetext
+Free Text:MPTO_GATE\502:freetext
+Free Text:MPTO_GATE\503:freetext
+Free Text:MPTO_GATE\504:freetext
+Free Text:MPTO_GATE\505:freetext
+Free Text:MPTO_GATE\506:freetext
+Free Text:MPTO_GATE\507:freetext
+Free Text:MPTO_GATE\508:freetext
+Free Text:MPTO_GATE\509:freetext
+Free Text:MPTO_GATE\510:freetext
+Free Text:MPTO_GATE\511:freetext
+Free Text:MPTO_GATE\60:freetext
+Free Text:MPTO_GATE\61:freetext
+Free Text:MPTO_GATE\64:freetext
+Free Text:MPTO_GATE\65:freetext
+Free Text:MPTO_GATE\67:freetext
+Free Text:MPTO_GATE\703:freetext
+Free Text:MPTO_GATE\704:freetext
+Free Text:MPTO_GATE\705:freetext
+Free Text:MPTO_GATE\706:freetext
+Free Text:MPTO_GATE\706W:freetext
+Free Text:MPTO_GATE\708:freetext
+Free Text:MPTO_GATE\709:freetext
+Free Text:MPTO_GATE\710:freetext
+Free Text:MPTO_GATE\711:freetext
+Free Text:MPTO_GATE\712:freetext
+Free Text:MPTO_GATE\713:freetext
+Free Text:MPTO_TWY\A:freetext
+Free Text:MPTO_TWY\A:freetext
+Free Text:MPTO_TWY\A1:freetext
+Free Text:MPTO_TWY\B:freetext
+Free Text:MPTO_TWY\D:freetext
+Free Text:MPTO_TWY\E:freetext
+Free Text:MPTO_TWY\E:freetext
+Free Text:MPTO_TWY\E:freetext
+Free Text:MPTO_TWY\E1:freetext
+Free Text:MPTO_TWY\E2:freetext
+Free Text:MPTO_TWY\F:freetext
+Free Text:MPTO_TWY\G:freetext
+Free Text:MPTO_TWY\G:freetext
+Free Text:MPTO_TWY\G:freetext
+Free Text:MPTO_TWY\H:freetext
+Free Text:MPTO_TWY\H:freetext
+Free Text:MPTO_TWY\J:freetext
+Free Text:MPTO_TWY\J:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\L:freetext
+Free Text:MPTO_TWY\M:freetext
+Free Text:MPTO_TWY\M:freetext
+Free Text:MPTO_TWY\M:freetext
+Free Text:MPTO_TWY\Q:freetext
+Free Text:MPTO_TWY\Q:freetext
+Free Text:MPTO_TWY\S3/2/1:freetext
+Free Text:MPTO_TWY\S7/6/5:freetext
+Free Text:MPTO_TWY\S8:freetext
+Free Text:MPTO_TWY\T:freetext
+Free Text:SCT2\136:freetext
+Free Text:SCT2\16:freetext
+Free Text:SCT2\19:freetext
+Free Text:SCT2\19:freetext
+Free Text:SCT2\21:freetext
+Free Text:SCT2\21:freetext
+Free Text:SCT2\23:freetext
+Free Text:SCT2\28:freetext
+Free Text:SCT2\29:freetext
+Free Text:SCT2\30:freetext
+Free Text:SCT2\32:freetext
+Free Text:SCT2\34:freetext
+Free Text:SCT2\35:freetext
+Free Text:SCT2\39:freetext
+Free Text:SCT2\40:freetext
+Free Text:SCT2\41:freetext
+Free Text:SCT2\41:freetext
+Free Text:SCT2\50:freetext
+Free Text:SCT2\50:freetext
+Free Text:SCT2\53:freetext
+Free Text:SCT2\60:freetext
+Free Text:SCT2\96:freetext
+Free Text:SCT2\99:freetext
+Free Text:SKSPTMATs\195:freetext
 Geo:Coast Line:
 Geo:GEO:
+Geo:MPBO:
+Geo:MPDA:
+Geo:MPMG:
+Geo:MPPA:
+Geo:MPSM:
+Geo:MPTO:
+Regions:MPTO ILS03R:polygon
+Regions:MPTO_POLY_3LTDZ:polygon
+Regions:MPTO_POLY_3RTDZ:polygon
+Regions:MPTO_POLY_APN1:polygon
+Regions:MPTO_POLY_APN2:polygon
+Regions:MPTO_POLY_APN3:polygon
+Regions:MPTO_POLY_APN4:polygon
+Regions:MPTO_POLY_APN5:polygon
+Regions:MPTO_POLY_GRASS_H1:polygon
+Regions:MPTO_POLY_GRASS_LOW:polygon
+Regions:MPTO_POLY_GRASSH2:polygon
+Regions:MPTO_POLY_RWY3L:polygon
+Regions:MPTO_POLY_RWY3R:polygon
+Regions:MPTO_POLY_TERM:polygon
+Regions:MPTO_POLY_TWY:polygon
+Runways:MPBO 09-27:centerline
+Runways:MPBO 09-27:extended centerline 1
+Runways:MPBO 09-27:extended centerline 1 left base
+Runways:MPBO 09-27:extended centerline 1 left ticks
+Runways:MPBO 09-27:extended centerline 1 left vectoring
+Runways:MPBO 09-27:extended centerline 1 right base
+Runways:MPBO 09-27:extended centerline 1 right ticks
+Runways:MPBO 09-27:extended centerline 1 right vectoring
+Runways:MPBO 09-27:extended centerline 2
+Runways:MPBO 09-27:extended centerline 2 left base
+Runways:MPBO 09-27:extended centerline 2 left ticks
+Runways:MPBO 09-27:extended centerline 2 left vectoring
+Runways:MPBO 09-27:extended centerline 2 right base
+Runways:MPBO 09-27:extended centerline 2 right ticks
+Runways:MPBO 09-27:extended centerline 2 right vectoring
+Runways:MPBO 09-27:name
+Runways:MPBR 06-24:centerline
+Runways:MPBR 06-24:extended centerline 1
+Runways:MPBR 06-24:extended centerline 1 left base
+Runways:MPBR 06-24:extended centerline 1 left ticks
+Runways:MPBR 06-24:extended centerline 1 left vectoring
+Runways:MPBR 06-24:extended centerline 1 right base
+Runways:MPBR 06-24:extended centerline 1 right ticks
+Runways:MPBR 06-24:extended centerline 1 right vectoring
+Runways:MPBR 06-24:extended centerline 2
+Runways:MPBR 06-24:extended centerline 2 left base
+Runways:MPBR 06-24:extended centerline 2 left ticks
+Runways:MPBR 06-24:extended centerline 2 left vectoring
+Runways:MPBR 06-24:extended centerline 2 right base
+Runways:MPBR 06-24:extended centerline 2 right ticks
+Runways:MPBR 06-24:extended centerline 2 right vectoring
+Runways:MPBR 06-24:name
+Runways:MPCE 01-19:centerline
+Runways:MPCE 01-19:extended centerline 1
+Runways:MPCE 01-19:extended centerline 1 left base
+Runways:MPCE 01-19:extended centerline 1 left ticks
+Runways:MPCE 01-19:extended centerline 1 left vectoring
+Runways:MPCE 01-19:extended centerline 1 right base
+Runways:MPCE 01-19:extended centerline 1 right ticks
+Runways:MPCE 01-19:extended centerline 1 right vectoring
+Runways:MPCE 01-19:extended centerline 2
+Runways:MPCE 01-19:extended centerline 2 left base
+Runways:MPCE 01-19:extended centerline 2 left ticks
+Runways:MPCE 01-19:extended centerline 2 left vectoring
+Runways:MPCE 01-19:extended centerline 2 right base
+Runways:MPCE 01-19:extended centerline 2 right ticks
+Runways:MPCE 01-19:extended centerline 2 right vectoring
+Runways:MPCE 01-19:name
+Runways:MPCH 03-21:centerline
+Runways:MPCH 03-21:extended centerline 1
+Runways:MPCH 03-21:extended centerline 1 left base
+Runways:MPCH 03-21:extended centerline 1 left ticks
+Runways:MPCH 03-21:extended centerline 1 left vectoring
+Runways:MPCH 03-21:extended centerline 1 right base
+Runways:MPCH 03-21:extended centerline 1 right ticks
+Runways:MPCH 03-21:extended centerline 1 right vectoring
+Runways:MPCH 03-21:extended centerline 2
+Runways:MPCH 03-21:extended centerline 2 left base
+Runways:MPCH 03-21:extended centerline 2 left ticks
+Runways:MPCH 03-21:extended centerline 2 left vectoring
+Runways:MPCH 03-21:extended centerline 2 right base
+Runways:MPCH 03-21:extended centerline 2 right ticks
+Runways:MPCH 03-21:extended centerline 2 right vectoring
+Runways:MPCH 03-21:name
+Runways:MPDA 04-22:centerline
+Runways:MPDA 04-22:extended centerline 1
+Runways:MPDA 04-22:extended centerline 1 left base
+Runways:MPDA 04-22:extended centerline 1 left ticks
+Runways:MPDA 04-22:extended centerline 1 left vectoring
+Runways:MPDA 04-22:extended centerline 1 right base
+Runways:MPDA 04-22:extended centerline 1 right ticks
+Runways:MPDA 04-22:extended centerline 1 right vectoring
+Runways:MPDA 04-22:extended centerline 2
+Runways:MPDA 04-22:extended centerline 2 left base
+Runways:MPDA 04-22:extended centerline 2 left ticks
+Runways:MPDA 04-22:extended centerline 2 left vectoring
+Runways:MPDA 04-22:extended centerline 2 right base
+Runways:MPDA 04-22:extended centerline 2 right ticks
+Runways:MPDA 04-22:extended centerline 2 right vectoring
+Runways:MPDA 04-22:name
+Runways:MPEJ 18-36:centerline
+Runways:MPEJ 18-36:extended centerline 1
+Runways:MPEJ 18-36:extended centerline 1 left base
+Runways:MPEJ 18-36:extended centerline 1 left ticks
+Runways:MPEJ 18-36:extended centerline 1 left vectoring
+Runways:MPEJ 18-36:extended centerline 1 right base
+Runways:MPEJ 18-36:extended centerline 1 right ticks
+Runways:MPEJ 18-36:extended centerline 1 right vectoring
+Runways:MPEJ 18-36:extended centerline 2
+Runways:MPEJ 18-36:extended centerline 2 left base
+Runways:MPEJ 18-36:extended centerline 2 left ticks
+Runways:MPEJ 18-36:extended centerline 2 left vectoring
+Runways:MPEJ 18-36:extended centerline 2 right base
+Runways:MPEJ 18-36:extended centerline 2 right ticks
+Runways:MPEJ 18-36:extended centerline 2 right vectoring
+Runways:MPEJ 18-36:name
+Runways:MPMC 16-34:centerline
+Runways:MPMC 16-34:extended centerline 1
+Runways:MPMC 16-34:extended centerline 1 left base
+Runways:MPMC 16-34:extended centerline 1 left ticks
+Runways:MPMC 16-34:extended centerline 1 left vectoring
+Runways:MPMC 16-34:extended centerline 1 right base
+Runways:MPMC 16-34:extended centerline 1 right ticks
+Runways:MPMC 16-34:extended centerline 1 right vectoring
+Runways:MPMC 16-34:extended centerline 2
+Runways:MPMC 16-34:extended centerline 2 left base
+Runways:MPMC 16-34:extended centerline 2 left ticks
+Runways:MPMC 16-34:extended centerline 2 left vectoring
+Runways:MPMC 16-34:extended centerline 2 right base
+Runways:MPMC 16-34:extended centerline 2 right ticks
+Runways:MPMC 16-34:extended centerline 2 right vectoring
+Runways:MPMC 16-34:name
+Runways:MPMG 01-19:centerline
+Runways:MPMG 01-19:extended centerline 1
+Runways:MPMG 01-19:extended centerline 1 left base
+Runways:MPMG 01-19:extended centerline 1 left ticks
+Runways:MPMG 01-19:extended centerline 1 left vectoring
+Runways:MPMG 01-19:extended centerline 1 right base
+Runways:MPMG 01-19:extended centerline 1 right ticks
+Runways:MPMG 01-19:extended centerline 1 right vectoring
+Runways:MPMG 01-19:extended centerline 2
+Runways:MPMG 01-19:extended centerline 2 left base
+Runways:MPMG 01-19:extended centerline 2 left ticks
+Runways:MPMG 01-19:extended centerline 2 left vectoring
+Runways:MPMG 01-19:extended centerline 2 right base
+Runways:MPMG 01-19:extended centerline 2 right ticks
+Runways:MPMG 01-19:extended centerline 2 right vectoring
+Runways:MPMG 01-19:name
+Runways:MPPA 18-36:centerline
+Runways:MPPA 18-36:extended centerline 1
+Runways:MPPA 18-36:extended centerline 1 left base
+Runways:MPPA 18-36:extended centerline 1 left ticks
+Runways:MPPA 18-36:extended centerline 1 left vectoring
+Runways:MPPA 18-36:extended centerline 1 right base
+Runways:MPPA 18-36:extended centerline 1 right ticks
+Runways:MPPA 18-36:extended centerline 1 right vectoring
+Runways:MPPA 18-36:extended centerline 2
+Runways:MPPA 18-36:extended centerline 2 left base
+Runways:MPPA 18-36:extended centerline 2 left ticks
+Runways:MPPA 18-36:extended centerline 2 left vectoring
+Runways:MPPA 18-36:extended centerline 2 right base
+Runways:MPPA 18-36:extended centerline 2 right ticks
+Runways:MPPA 18-36:extended centerline 2 right vectoring
+Runways:MPPA 18-36:name
+Runways:MPPD 17-35:centerline
+Runways:MPPD 17-35:extended centerline 1
+Runways:MPPD 17-35:extended centerline 1 left base
+Runways:MPPD 17-35:extended centerline 1 left ticks
+Runways:MPPD 17-35:extended centerline 1 left vectoring
+Runways:MPPD 17-35:extended centerline 1 right base
+Runways:MPPD 17-35:extended centerline 1 right ticks
+Runways:MPPD 17-35:extended centerline 1 right vectoring
+Runways:MPPD 17-35:extended centerline 2
+Runways:MPPD 17-35:extended centerline 2 left base
+Runways:MPPD 17-35:extended centerline 2 left ticks
+Runways:MPPD 17-35:extended centerline 2 left vectoring
+Runways:MPPD 17-35:extended centerline 2 right base
+Runways:MPPD 17-35:extended centerline 2 right ticks
+Runways:MPPD 17-35:extended centerline 2 right vectoring
+Runways:MPPD 17-35:name
+Runways:MPPN 01-19:centerline
+Runways:MPPN 01-19:extended centerline 1
+Runways:MPPN 01-19:extended centerline 1 left base
+Runways:MPPN 01-19:extended centerline 1 left ticks
+Runways:MPPN 01-19:extended centerline 1 left vectoring
+Runways:MPPN 01-19:extended centerline 1 right base
+Runways:MPPN 01-19:extended centerline 1 right ticks
+Runways:MPPN 01-19:extended centerline 1 right vectoring
+Runways:MPPN 01-19:extended centerline 2
+Runways:MPPN 01-19:extended centerline 2 left base
+Runways:MPPN 01-19:extended centerline 2 left ticks
+Runways:MPPN 01-19:extended centerline 2 left vectoring
+Runways:MPPN 01-19:extended centerline 2 right base
+Runways:MPPN 01-19:extended centerline 2 right ticks
+Runways:MPPN 01-19:extended centerline 2 right vectoring
+Runways:MPPN 01-19:name
+Runways:MPRA 18-36:centerline
+Runways:MPRA 18-36:extended centerline 1
+Runways:MPRA 18-36:extended centerline 1 left base
+Runways:MPRA 18-36:extended centerline 1 left ticks
+Runways:MPRA 18-36:extended centerline 1 left vectoring
+Runways:MPRA 18-36:extended centerline 1 right base
+Runways:MPRA 18-36:extended centerline 1 right ticks
+Runways:MPRA 18-36:extended centerline 1 right vectoring
+Runways:MPRA 18-36:extended centerline 2
+Runways:MPRA 18-36:extended centerline 2 left base
+Runways:MPRA 18-36:extended centerline 2 left ticks
+Runways:MPRA 18-36:extended centerline 2 left vectoring
+Runways:MPRA 18-36:extended centerline 2 right base
+Runways:MPRA 18-36:extended centerline 2 right ticks
+Runways:MPRA 18-36:extended centerline 2 right vectoring
+Runways:MPRA 18-36:name
+Runways:MPSA 18-36:centerline
+Runways:MPSA 18-36:extended centerline 1
+Runways:MPSA 18-36:extended centerline 1 left base
+Runways:MPSA 18-36:extended centerline 1 left ticks
+Runways:MPSA 18-36:extended centerline 1 left vectoring
+Runways:MPSA 18-36:extended centerline 1 right base
+Runways:MPSA 18-36:extended centerline 1 right ticks
+Runways:MPSA 18-36:extended centerline 1 right vectoring
+Runways:MPSA 18-36:extended centerline 2
+Runways:MPSA 18-36:extended centerline 2 left base
+Runways:MPSA 18-36:extended centerline 2 left ticks
+Runways:MPSA 18-36:extended centerline 2 left vectoring
+Runways:MPSA 18-36:extended centerline 2 right base
+Runways:MPSA 18-36:extended centerline 2 right ticks
+Runways:MPSA 18-36:extended centerline 2 right vectoring
+Runways:MPSA 18-36:name
+Runways:MPSM 17-35:centerline
+Runways:MPSM 17-35:extended centerline 1
+Runways:MPSM 17-35:extended centerline 1 left base
+Runways:MPSM 17-35:extended centerline 1 left ticks
+Runways:MPSM 17-35:extended centerline 1 left vectoring
+Runways:MPSM 17-35:extended centerline 1 right base
+Runways:MPSM 17-35:extended centerline 1 right ticks
+Runways:MPSM 17-35:extended centerline 1 right vectoring
+Runways:MPSM 17-35:extended centerline 2
+Runways:MPSM 17-35:extended centerline 2 left base
+Runways:MPSM 17-35:extended centerline 2 left ticks
+Runways:MPSM 17-35:extended centerline 2 left vectoring
+Runways:MPSM 17-35:extended centerline 2 right base
+Runways:MPSM 17-35:extended centerline 2 right ticks
+Runways:MPSM 17-35:extended centerline 2 right vectoring
+Runways:MPSM 17-35:name
+Runways:MPTO 03L-21R:name
+Runways:MPTO 03R-21L:name
+Runways:SKSP 06-24:centerline
+Runways:SKSP 06-24:extended centerline 1
+Runways:SKSP 06-24:extended centerline 1 left base
+Runways:SKSP 06-24:extended centerline 1 left ticks
+Runways:SKSP 06-24:extended centerline 1 left vectoring
+Runways:SKSP 06-24:extended centerline 1 right base
+Runways:SKSP 06-24:extended centerline 1 right ticks
+Runways:SKSP 06-24:extended centerline 1 right vectoring
+Runways:SKSP 06-24:extended centerline 2
+Runways:SKSP 06-24:extended centerline 2 left base
+Runways:SKSP 06-24:extended centerline 2 left ticks
+Runways:SKSP 06-24:extended centerline 2 left vectoring
+Runways:SKSP 06-24:extended centerline 2 right base
+Runways:SKSP 06-24:extended centerline 2 right ticks
+Runways:SKSP 06-24:extended centerline 2 right vectoring
+Runways:SKSP 06-24:name
+Sids:MPTO_RNAV_SIMAN2B_03L:
+Stars:MPMG_RNAV_VISUAL_01:
+Stars:MPMG_RNAV_VISUAL_01_GA:
+Stars:MPPA_VOR_DME_36:
+Stars:MPPA_VOR_DME_36_GA:
+Stars:MPTO_ILS_03R_GA:
+Stars:MPTO_ILS_Y_03R:
+Stars:MPTO_ILS_Y_03R_GA:
+Stars:MPTO_RNAV_ISOKO1:
+Stars:MPTO_RNAV_OSUPA1A:
+Stars:MPTO_RNAV_OSUPA1B:
+Stars:MPTO_RNAV_SIRIL1:
+Stars:MPTO_RNAV_VUMAN1:
+Stars:MPTO_VOR_DME_03L:
+Stars:MPTO_VOR_DME_03L_GA:
+VORs:BDT:frequency
 VORs:BDT:name
 VORs:BDT:symbol
+VORs:DAV:frequency
 VORs:DAV:name
 VORs:DAV:symbol
+VORs:FNC:frequency
 VORs:FNC:name
 VORs:FNC:symbol
+VORs:PML:frequency
 VORs:PML:name
 VORs:PML:symbol
+VORs:RHT:frequency
 VORs:RHT:name
 VORs:RHT:symbol
+VORs:SPP:frequency
 VORs:SPP:name
 VORs:SPP:symbol
+VORs:STG:frequency
 VORs:STG:name
 VORs:STG:symbol
+VORs:TBG:frequency
 VORs:TBG:name
 VORs:TBG:symbol
+VORs:TUM:frequency
 VORs:TUM:name
 VORs:TUM:symbol
 SHOWC:1
-SHOWSB:0
+SHOWSB:1
 BELOW:0
 ABOVE:0
-LEADER:20
+LEADER:5
 SHOWLEADER:1
 TURNLEADER:0
-HISTORY_DOTS:5
+HISTORY_DOTS:20
 SIMULATION_MODE:1
 DISABLEPANNING:0
 DISABLEZOOMING:0
+DisplayRotation:0.00000
 TAGFAMILY:Matias (built in)-copy
-WINDOWAREA:2.872397:-92.074007:14.594325:-72.963870
+WINDOWAREA:3.036192:-90.887994:14.758383:-68.348210
 PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
 PLUGIN:UK Controller Plugin:CountdownScreenPosY:349
 PLUGIN:UK Controller Plugin:DisplayCountdown:1
