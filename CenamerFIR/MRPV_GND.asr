@@ -1,0 +1,73 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:C:\Users\dioge\OneDrive\Documents\Euroscope\VATCA-master\CenamerFIR\CenamerFIR.sct
+SECTORTITLE:CenamerFIR.sct
+ARTCC high boundary:MROC_A_APP:
+ARTCC low boundary:MROC_TWR:
+ARTCC low boundary:MRPV_TWR:
+Free Text:MRPV_TAXI\A:freetext
+Free Text:MRPV_TAXI\A1:freetext
+Free Text:MRPV_TAXI\A2:freetext
+Free Text:MRPV_TAXI\A3:freetext
+Free Text:MRPV_TAXI\A4:freetext
+Free Text:MRPV_TAXI\A5:freetext
+Free Text:MRPV_TAXI\A6:freetext
+Free Text:MRPV_TAXI\A7:freetext
+Free Text:MRPV_TAXI\APRON 2:freetext
+Free Text:MRPV_TAXI\B:freetext
+Free Text:MRPV_TAXI\C:freetext
+Free Text:MRPV_TAXI\D:freetext
+Free Text:MRPV_TAXI\D1:freetext
+Free Text:MRPV_TAXI\D2:freetext
+Geo:CostaRica_shore:
+Geo:CR_Political_Borders:
+Geo:GEO:
+Geo:MRPV:
+Regions:MRPV_POLY_GRASS_1:polygon
+Regions:MRPV_POLY_GRASS_2:polygon
+Regions:MRPV_POLY_GRASS_3:polygon
+Regions:MRPV_POLY_GRASS_4:polygon
+Regions:MRPV_POLY_GRASS_5:polygon
+Regions:MRPV_POLY_GRASS_6:polygon
+Regions:MRPV_POLY_GRASS_7:polygon
+Regions:MRPV_POLY_GRASS_8:polygon
+Regions:MRPV_POLY_GRASS_9:polygon
+Regions:MRPV_POLY_RWY:polygon
+Sids:MROC_CORREDOR_VISUAL:
+VORs:TIO:frequency
+VORs:TIO:name
+VORs:TIO:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:4
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:0.00000
+TAGFAMILY:Matias (built in)-copy
+WINDOWAREA:9.875618:-84.300256:10.040273:-83.980532
+PLUGIN:UK Controller Plugin:CountdownScreenPosX:0
+PLUGIN:UK Controller Plugin:CountdownScreenPosY:349
+PLUGIN:UK Controller Plugin:DisplayCountdown:1
+PLUGIN:UK Controller Plugin:DisplayMinStack:0
+PLUGIN:UK Controller Plugin:HistoryTrailAntiAlias:1
+PLUGIN:UK Controller Plugin:HistoryTrailColour:28,255,28
+PLUGIN:UK Controller Plugin:HistoryTrailDegrade:1
+PLUGIN:UK Controller Plugin:HistoryTrailDisplay:1
+PLUGIN:UK Controller Plugin:HistoryTrailDotSize:4
+PLUGIN:UK Controller Plugin:HistoryTrailFade:1
+PLUGIN:UK Controller Plugin:HistoryTrailLength:5
+PLUGIN:UK Controller Plugin:HistoryTrailMaxAltitudeFilter:99999
+PLUGIN:UK Controller Plugin:HistoryTrailMinAltitudeFilter:0
+PLUGIN:UK Controller Plugin:HistoryTrailType:0
+PLUGIN:UK Controller Plugin:holdDisplayVisibility:1
+PLUGIN:UK Controller Plugin:MinStackScreenPosX:100
+PLUGIN:UK Controller Plugin:MinStackScreenPosY:100
+PLUGIN:UK Controller Plugin:selectedHoldProfile:0
+PLUGIN:UK Controller Plugin:SelectedMinStack:tma.LTMA;tma.MTMA;tma.STMA
