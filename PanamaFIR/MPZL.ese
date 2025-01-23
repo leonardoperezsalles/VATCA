@@ -8,10 +8,10 @@ David ATIS:David ATIS:132.500:ATIS:ATIS:MPDA:ATIS:David ATIS:0000:0000:0000
 Cenamer Control:Cenamer Control:123.900:CS1:C:MHCC:CTR:Cenamer Control:0000:5700:5777
 Cenamer Control:Cenamer Control:124.100:CS2:C:MHCC:CTR:Cenamer Control:0000:5700:5777
 Cenamer Control:Cenamer Control:124.300:CS3:C:MHCC:CTR:Cenamer Control:0000:5700:5777
-Bogot· Control:Bogot· Control:128.600:BNE:C:SKED:CTR:Bogot· Control:2200:2277:0000
-Bogot· Control:Bogot· Control:123.700:BNW:C:SKED:CTR:Bogot· Control:2200:2277:0000
-Bogot· Control:Bogot· Control:128.800:BSE:C:SKED:CTR:Bogot· Control:2200:2277:0000
-Bogot· Control:Bogot· Control:125.100:BSW:C:SKED:CTR:Bogot· Control:2200:2277:0000
+Bogot√° Control:Bogot√° Control:128.600:BNE:C:SKED:CTR:Bogot√° Control:2200:2277:0000
+Bogot√° Control:Bogot√° Control:123.700:BNW:C:SKED:CTR:Bogot√° Control:2200:2277:0000
+Bogot√° Control:Bogot√° Control:128.800:BSE:C:SKED:CTR:Bogot√° Control:2200:2277:0000
+Bogot√° Control:Bogot√° Control:125.100:BSW:C:SKED:CTR:Bogot√° Control:2200:2277:0000
 Barranquilla Control:Barranquilla Control:128.400:BQC:C:SKEC:CTR:Barranquilla Control:2200:2277:0000
 Kingston Radar:Kingston Radar:128.100:KCE:C:MKJK:E:CTR:Kingston Radar:6700:6777:0000
 Kingston Radar:Kingston Radar:125.400:KCM:C:MKJK:CTR:Kingston Radar:6700:6777:0000
@@ -31,10 +31,10 @@ Scarlet Torre:Scarlet Torre:118.200:T:SMT:MPSM:TWR:Scarlet Torre:0101:0101:0277
 Gelabert Torre:Gelabert Torre:118.300:T:MGT:MPMG:TWR:Gelabert Torre:0101:0101:0277
 Gelabert Superficie:Gelabert Superficie:121.700:G:MGG:MPMG:GND:Gelabert Superficie:0101:0101:0277
 Pacifico Torre:Pacifico Torre:118.900:T:PAT:MPPA:TWR:Pacifico Torre:0101:0101:0277
-Panam· Control:Panam· Control:125.500:PCN:C:MPZL:CTR:Panam· Control:0101:0101:0277:N009.03.05.619:W079.24.00.208
-Panam· Control:Panam· Control:133.000:PCS:C:MPZL:CTR:Panam· Control:0101:0101:0277:N009.03.05.619:W079.24.00.208
-Panam· Control:Panam· Control:123.600:PCE:C:MPZL:CTR:Panam· Control:0101:0101:0277:N009.03.05.619:W079.24.00.208
-Panam· Control:Panam· Control:126.900:PCW:C:MPZL:CTR:Panam· Control:0101:0101:0277:N009.03.05.619:W079.24.00.208
+Panam√° Control:Panam√° Control:125.500:PCN:C:MPZL:CTR:Panam√° Control:0101:0101:0277:N009.03.05.619:W079.24.00.208
+Panam√° Control:Panam√° Control:133.000:PCS:C:MPZL:CTR:Panam√° Control:0101:0101:0277:N009.03.05.619:W079.24.00.208
+Panam√° Control:Panam√° Control:123.600:PCE:C:MPZL:CTR:Panam√° Control:0101:0101:0277:N009.03.05.619:W079.24.00.208
+Panam√° Control:Panam√° Control:126.900:PCW:C:MPZL:CTR:Panam√° Control:0101:0101:0277:N009.03.05.619:W079.24.00.208
 
 [FREETEXT]
 N009.05.27.682:W079.22.24.255:MPTO_TWY:A1
@@ -302,6 +302,7 @@ STAR:SKSP:06:SEKTO2A:SEKTO
 
 STAR:MPPA:36:R36.DIEGO:DIEGO HAPUS PITNE VERAY ZERUL
 STAR:MPPA:36:R36.REPOE:REPOE PITNE VERAY ZERUL
+STAR:MPPA:36:VOR36:OKUGI TBG VOBON KOINE
 STAR:MPPA:36:R.Z.36.SINEM:SINEM PA126 PA125 PA123 
 STAR:MPPA:36:R.Z.36.PANEP:PANEP PA123 PA122
 STAR:MPPA:36:R.Z.36.TIRNU:TIRNU PA124 PA123 PA122
