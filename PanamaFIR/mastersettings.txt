@@ -105,6 +105,7 @@ m_ShowConcernedInFpList:1
 m_ShowUnconcernedInFpList:0
 m_ZoomCenterUnderMouse:0
 m_AseURL:http://www.craig-phillips.co.uk/ase/repository/
+m_CompensateMagneticVariation:0
 m_STCA_LowPreWarnTime:150
 m_STCA_LowWarnTime:150
 m_HighPreWarnTime:240
@@ -121,18 +122,6 @@ m_MTCA_Distance:20.0
 m_UseIsectForScratchPad:1
 m_RotateRadarTargetSymbol:0
 m_RotateFlightPlanTrackSymbol:0
-m_RubberHeadingRounding:5
-SqawkForSModeTransponder:
-m_TransparentTagBackground:1
-m_UseArrDepTagBgColor:0
-SET_MTCA_Show:1
-m_TaxiOutTime:7
-m_StartupTime:10
-m_ConnectTime:15
-m_AutoAssumeOnGroundStateChangeButton:1
-m_ShowTrackMilesInRouteButton:1
-m_FilterOutSquawks:
-m_EquipmentsIcaoFormat:1
 m_ShowControllers:1
 m_ShowAircraft:1
 m_ShowTextMessages:0
@@ -171,8 +160,8 @@ m_ScreenMaximized:0
 m_ShowTitleSelectedAc:0
 m_PlanesListX:1079
 m_PlanesListY:120
-m_MetarListX:1514
-m_MetarListY:40
+m_MetarListX:1076
+m_MetarListY:66
 m_VoiceListX:-1000
 m_VoiceListY:-1000
 m_ControllerListX:-1000
@@ -187,10 +176,6 @@ m_ShowTooltips:1
 m_OnTheGroundAltitude:10000
 m_OnTheGroundSpeed:50
 m_ShowCdtOnCflCheck:0
-m_ShowTsVccsMiniControl:0
-ScenarioEditorX:0
-ScenarioEditorY:0
-m_ShowSTARControllers:1
 SYMBOLOGY
 SYMBOLSIZE
 Airports:symbol:6579300:1.0:0:0:7
@@ -239,8 +224,6 @@ Datablock:ongoing accepted:65535:3.5:0:0:7
 Datablock:ongoing refused:65535:3.5:0:0:7
 Datablock:detailed background:5526612:3.5:0:0:7
 Datablock:active item background:3223857:3.5:0:0:7
-Datablock:arrival background:1395241:3.5:0:0:7
-Datablock:departure background:4264977:3.5:0:0:7
 Datablock:AC list background:5201680:3.5:0:0:7
 Datablock:AC list selected background:4411406:3.5:0:0:7
 Datablock:dimmed at conflict detection:5263440:3.5:0:0:7
@@ -285,9 +268,6 @@ Chat:text:16777215:3.5:0:0:7
 Chat:background:855309:3.5:0:0:7
 Chat:name normal:16777215:3.5:0:0:7
 Chat:name unread:16776960:3.5:0:0:7
-Ground Network:exit:16711680:3.5:0:3:7
-Ground Network:taxiway:65280:3.5:0:3:7
-Ground Network:terminal taxiway:255:3.5:0:3:7
 Sector:line:1117406:4.0:2:1:7
 Sector:msaw:32768:2.0:0:2:7
 Sector:active sector background:0:3.5:0:0:7
@@ -542,49 +522,28 @@ SYMBOLITEM:LINETO 3 7
 SYMBOLITEM:LINETO 3 -7
 SYMBOLITEM:LINETO -3 -7
 SYMBOLITEM:LINETO -3 7
-SYMBOL:23
-SYMBOLITEM:MOVETO 0 -12
-SYMBOLITEM:LINETO -2 -11
-SYMBOLITEM:LINETO -2 -3
-SYMBOLITEM:LINETO -8 -9
-SYMBOLITEM:LINETO -10 -7
-SYMBOLITEM:LINETO -3 0
-SYMBOLITEM:LINETO -10 7
-SYMBOLITEM:LINETO -8 9
-SYMBOLITEM:LINETO -2 3
-SYMBOLITEM:LINETO -2 12
-SYMBOLITEM:LINETO 2 12
-SYMBOLITEM:LINETO 2 3
-SYMBOLITEM:LINETO 8 9
-SYMBOLITEM:LINETO 10 7
-SYMBOLITEM:LINETO 3 0
-SYMBOLITEM:LINETO 10 -7
-SYMBOLITEM:LINETO 8 -9
-SYMBOLITEM:LINETO 2 -3
-SYMBOLITEM:LINETO 2 -11
-SYMBOLITEM:LINETO 0 -12
 m_ClipArea:0
 END
 VOICE
-AG:MPZL_CTR:133.000
-AG:MPZL_N_CTR:133.300
-AG:MPZL_S_CTR:133.850
-AG:MPZL_W_CTR:133.000
-AG:MPZL_E_CTR:125.500
-AG:MPZL_D_CTR:135.900
-AG:MPTO_FSS:121.200
-AG:MPTO_APP:119.700
-AG:MPTO_DEP:119.200
-AG:MPTO_TWR:118.100
-AG:MPMG_TWR:118.300
-AG:MPPA_TWR:118.900
-AG:MPSM_TWR:118.200
-AG:MPDA_TWR:118.700
-AG:MPBO_TWR:118.400
-AG:MPTO_GND:121.900
-AG:MPTO_S_GND:121.900
-AG:MPTO_N_GND:126.400
-AG:MPTO_DEL:129.800
+AG:MPZL_CTR:133.000:old:old
+AG:MPZL_N_CTR:133.300:old:old
+AG:MPZL_S_CTR:133.850:old:old
+AG:MPZL_W_CTR:133.000:old:old
+AG:MPZL_E_CTR:125.500:old:old
+AG:MPZL_D_CTR:135.900:old:old
+AG:MPTO_FSS:121.200:old:old
+AG:MPTO_APP:119.700:old:old
+AG:MPTO_DEP:119.200:old:old
+AG:MPTO_TWR:118.100:old:old
+AG:MPMG_TWR:118.300:old:old
+AG:MPPA_TWR:118.900:old:old
+AG:MPSM_TWR:118.200:old:old
+AG:MPDA_TWR:118.700:old:old
+AG:MPBO_TWR:118.400:old:old
+AG:MPTO_GND:121.900:old:old
+AG:MPTO_S_GND:121.900:old:old
+AG:MPTO_N_GND:126.400:old:old
+AG:MPTO_DEL:129.800:old:old
 END
 PROFILE
 PROFILE:MPZL_CTR:600:6
@@ -1147,21 +1106,21 @@ m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:15
 m_HeaderOnly:0
-m_Column:C/S:7:0:9:8:0:1::::0:0.0
-m_Column:ATYP:4:1:16:0:0:1::::8:0.0
-m_Column:WTC:3:1:10:0:0:1::::8:0.0
-m_Column:COPN:5:0:48:21:21:1::::8:0.0
-m_Column:ETN:5:1:50:0:0:1::::8:0.0
-m_Column:ETA:5:1:54:0:0:1::::8:0.0
-m_Column:ADEP:4:1:61:0:0:1::::8:0.0
-m_Column:FR:2:1:63:0:0:1::::8:0.0
-m_Column:ADES:4:1:17:7:1:1::::8:0.0
-m_Column:COPX:5:0:51:22:22:1::::8:0.0
-m_Column:ETX:5:1:53:0:0:1::::8:0.0
-m_Column:RUNW:4:1:47:19:19:1::::8:0.0
-m_Column:STAR:7:0:55:18:18:1::::8:0.0
-m_Column:SI:3:1:64:20:0:1::::8:0.0
-m_Column:ASSR:5:1:60:31:31:1::::0:0.0
+m_Column:C/S:7:0:9:8:0:1::::0
+m_Column:ATYP:4:1:16:0:0:1::::8
+m_Column:WTC:3:1:10:0:0:1::::8
+m_Column:COPN:5:0:48:21:21:1::::8
+m_Column:ETN:5:1:50:0:0:1::::8
+m_Column:ETA:5:1:54:0:0:1::::8
+m_Column:ADEP:4:1:61:0:0:1::::8
+m_Column:FR:2:1:63:0:0:1::::8
+m_Column:ADES:4:1:17:7:1:1::::8
+m_Column:COPX:5:0:51:22:22:1::::8
+m_Column:ETX:5:1:53:0:0:1::::8
+m_Column:RUNW:4:1:47:19:19:1::::8
+m_Column:STAR:7:0:55:18:18:1::::8
+m_Column:SI:3:1:64:20:0:1::::8
+m_Column:ASSR:5:1:60:31:31:1::::0
 END
 SEL
 m_Visible:1
@@ -1171,22 +1130,22 @@ m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:-12
 m_HeaderOnly:0
-m_Column:C/S:7:0:9:8:0:1::::0:0.0
-m_Column:ATYP:4:1:16:0:0:1::::8:0.0
-m_Column:WTC:3:1:10:0:0:1::::8:0.0
-m_Column:PSSR:5:1:2:0:0:1::::8:0.0
-m_Column:CFL:4:1:20:11:0:1::::8:0.0
-m_Column:RFL:4:0:22:30:0:1::::8:0.0
-m_Column:FR:2:1:63:0:0:1::::8:0.0
-m_Column:ADEP:4:1:61:0:0:1::::8:0.0
-m_Column:SID:7:0:56:17:17:1::::8:0.0
-m_Column:ADES:4:1:17:7:1:1::::8:0.0
-m_Column:COPX:5:0:51:22:22:1::::8:0.0
-m_Column:ETX:5:1:53:0:0:1::::8:0.0
-m_Column:ASSR:5:1:60:31:31:1::::0:0.0
-m_Column:RWY:4:0:47:19:0:1::::0:0.0
-m_Column:STAR:7:0:55:18:18:1::::8:0.0
-m_Column:SI:3:1:64:20:0:1::::8:0.0
+m_Column:C/S:7:0:9:8:0:1::::0
+m_Column:ATYP:4:1:16:0:0:1::::8
+m_Column:WTC:3:1:10:0:0:1::::8
+m_Column:PSSR:5:1:2:0:0:1::::8
+m_Column:CFL:4:1:20:11:0:1::::8
+m_Column:RFL:4:0:22:30:0:1::::8
+m_Column:FR:2:1:63:0:0:1::::8
+m_Column:ADEP:4:1:61:0:0:1::::8
+m_Column:SID:7:0:56:17:17:1::::8
+m_Column:ADES:4:1:17:7:1:1::::8
+m_Column:COPX:5:0:51:22:22:1::::8
+m_Column:ETX:5:1:53:0:0:1::::8
+m_Column:ASSR:5:1:60:31:31:1::::0
+m_Column:RWY:4:0:47:19:0:1::::0
+m_Column:STAR:7:0:55:18:18:1::::8
+m_Column:SI:3:1:64:20:0:1::::8
 END
 DEP
 m_Visible:1
@@ -1196,21 +1155,21 @@ m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:8
 m_HeaderOnly:0
-m_Column:C/S:7:0:9:0:0:1::::8:0.0
-m_Column:COM:3:1:80:32:0:1::::8:0.0
-m_Column:ADEP:4:1:61:0:0:1::::8:0.0
-m_Column:ATYP:4:1:16:0:0:1::::8:0.0
-m_Column:WTC:3:1:10:0:0:1::::8:0.0
-m_Column:RWY:4:1:47:19:19:1::::8:0.0
-m_Column:SID:7:0:56:17:17:1::::8:0.0
-m_Column:COPN:5:0:48:21:21:1::::8:0.0
-m_Column:ASSR:5:1:60:31:31:1::::0:0.0
-m_Column:COPX:5:0:51:22:22:1::::8:0.0
-m_Column:ADES:4:1:17:7:1:1::::8:0.0
-m_Column:CFL:4:1:20:11:0:1::::8:0.0
-m_Column:RFL:4:1:22:30:30:1::::8:0.0
-m_Column:FR:2:1:63:0:0:1::::8:0.0
-m_Column:STS:4:1:59:28:28:1::::8:0.0
+m_Column:C/S:7:0:9:0:0:1::::8
+m_Column:COM:3:1:80:32:0:1::::8
+m_Column:ADEP:4:1:61:0:0:1::::8
+m_Column:ATYP:4:1:16:0:0:1::::8
+m_Column:WTC:3:1:10:0:0:1::::8
+m_Column:RWY:4:1:47:19:19:1::::8
+m_Column:SID:7:0:56:17:17:1::::8
+m_Column:COPN:5:0:48:21:21:1::::8
+m_Column:ASSR:5:1:60:31:31:1::::0
+m_Column:COPX:5:0:51:22:22:1::::8
+m_Column:ADES:4:1:17:7:1:1::::8
+m_Column:CFL:4:1:20:11:0:1::::8
+m_Column:RFL:4:1:22:30:30:1::::8
+m_Column:FR:2:1:63:0:0:1::::8
+m_Column:STS:4:1:59:28:28:1::::8
 END
 ARR
 m_Visible:0
@@ -1220,8 +1179,8 @@ m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:1
 m_HeaderOnly:0
-m_Column:C/S:7:0:9:8:0:1::::0:0.0
-m_Column:TXT:6:1:19:29:0:1::::1:0.0
+m_Column:C/S:7:0:9:8:0:1::::2020425110
+m_Column:TXT:6:1:19:29:0:1::::2020425110
 END
 FP
 m_Visible:0
@@ -1231,10 +1190,10 @@ m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:1
 m_HeaderOnly:0
-m_Column:C/S:7:0:9:0:0:1::::0:0.0
-m_Column:ADEP:5:1:61:0:0:1::::1:0.0
-m_Column:ADES:5:1:17:7:0:1::::1:0.0
-m_Column:STS:6:1:82:34:34:1::::1:0.0
+m_Column:C/S:7:0:9:0:0:1::::2020425110
+m_Column:ADEP:5:1:61:0:0:1::::2020425110
+m_Column:ADES:5:1:17:7:0:1::::2020425110
+m_Column:STS:6:1:82:34:34:1::::2020425110
 END
 CONFLICT
 m_Visible:0
@@ -1244,137 +1203,11 @@ m_LineNumber:6
 m_Resizable:0
 m_OrderingColumn:1
 m_HeaderOnly:0
-m_Column:TYPE:6:1:88:0:36:1::::1:0.0
-m_Column:C/S:7:0:9:0:36:1::::0:0.0
-m_Column:C/S:7:0:85:0:36:1::::1:0.0
-m_Column:START:6:1:86:0:36:1::::1:0.0
-m_Column:END:6:1:87:0:36:1::::1:0.0
-END
-PILOTING
-m_Visible:0
-m_X:60
-m_Y:100
-m_LineNumber:6
-m_Resizable:0
-m_OrderingColumn:1
-m_HeaderOnly:0
-m_Column:*:4:0:90:41:0:1::::1:0.0
-m_Column:C/S:12:0:9:0:0:1::::0:0.0
-m_Column:SPD:5:0:94:12:0:1::::1:0.0
-m_Column:ALT:10:0:95:11:0:1::::1:0.0
-m_Column:HDG:10:0:96:14:0:1::::1:0.0
-m_Column:WP:6:0:91:42:0:1::::1:0.0
-m_Column:TO:4:0:100:37:0:1::::1:0.0
-m_Column:LAND:7:0:101:38:0:1::::1:0.0
-m_Column:TX:6:0:102:39:0:1::::1:0.0
-m_Column:TXB:6:0:103:40:0:1::::1:0.0
-m_Column:HOLD:5:0:104:43:0:1::::1:0.0
-END
-ORIGPLANE
-m_Visible:0
-m_X:70
-m_Y:100
-m_LineNumber:6
-m_Resizable:0
-m_OrderingColumn:1
-m_HeaderOnly:0
-m_Column:C/S:12:0:9:0:0:1::::0:0.0
-m_Column:C:2:0:105:0:0:1::::1:0.0
-m_Column:APT:5:0:106:0:0:1::::1:0.0
-m_Column:DATA:7:0:107:0:0:1::::1:0.0
-END
-STUP
-m_Visible:0
-m_X:80
-m_Y:100
-m_LineNumber:6
-m_Resizable:0
-m_OrderingColumn:1
-m_HeaderOnly:0
-m_Column:TIME:5:1:98:0:0:1::::1:0.0
-m_Column:TOBT:5:1:97:0:0:1::::1:0.0
-m_Column:SLOT:5:1:99:0:0:1::::1:0.0
-m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
-m_Column:ATYP:4:1:16:0:0:1::::1:0.0
-m_Column:RUNW:4:1:47:19:19:1::::1:0.0
-m_Column:ADES:4:1:17:7:0:1::::1:0.0
-m_Column:SID:9:0:56:17:17:1::::1:0.0
-m_Column:CFL:4:1:20:11:0:1::::1:0.0
-m_Column:ASSR:5:1:60:31:31:1::::1:0.0
-m_Column:E:1:1:58:27:0:1::::1:0.0
-m_Column:STS:4:1:59:46:46:1::::1:0.0
-END
-TAXIOUT
-m_Visible:0
-m_X:90
-m_Y:100
-m_LineNumber:6
-m_Resizable:0
-m_OrderingColumn:1
-m_HeaderOnly:0
-m_Column:DSQ:3:1:57:0:0:1::::1:0.0
-m_Column:SLOT:5:1:99:0:0:1::::1:0.0
-m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
-m_Column:RUNW:4:1:47:19:19:1::::1:0.0
-m_Column:ATYP:4:1:16:0:0:1::::1:0.0
-m_Column:ADES:4:1:17:7:0:1::::1:0.0
-m_Column:SID:9:0:56:17:17:1::::1:0.0
-m_Column:CFL:4:1:20:11:0:1::::1:0.0
-m_Column:ASSR:5:1:60:31:31:1::::1:0.0
-m_Column:E:1:1:58:27:0:1::::1:0.0
-m_Column:TTOT:5:1:108:0:0:1::::1:0.0
-m_Column:STS:4:1:59:46:46:1::::1:0.0
-END
-TAKEOFF
-m_Visible:0
-m_X:100
-m_Y:100
-m_LineNumber:6
-m_Resizable:0
-m_OrderingColumn:1
-m_HeaderOnly:0
-m_Column:DSQ:3:1:57:0:0:1::::1:0.0
-m_Column:SLOT:5:1:99:0:0:1::::1:0.0
-m_Column:RUNW:4:1:47:19:19:1::::1:0.0
-m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
-m_Column:ATYP:4:1:16:0:0:1::::1:0.0
-m_Column:SID:9:0:56:17:17:1::::1:0.0
-m_Column:CFL:4:1:20:11:0:1::::1:0.0
-m_Column:ASSR:5:1:60:31:31:1::::1:0.0
-m_Column:E:1:1:58:27:0:1::::1:0.0
-m_Column:TTOT:5:1:108:0:0:1::::1:0.0
-m_Column:STS:4:1:59:46:46:1::::1:0.0
-END
-ADCS
-m_Visible:0
-m_X:110
-m_Y:100
-m_LineNumber:6
-m_Resizable:0
-m_OrderingColumn:1
-m_HeaderOnly:0
-m_Column:RUNW:4:1:47:19:19:1::::1:0.0
-m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
-m_Column:ATYP:4:1:16:0:0:1::::1:0.0
-m_Column:COPX:5:0:51:21:21:1::::1:0.0
-m_Column:STS:4:1:59:46:46:1::::1:0.0
-END
-TAXIIN
-m_Visible:0
-m_X:120
-m_Y:100
-m_LineNumber:6
-m_Resizable:0
-m_OrderingColumn:1
-m_HeaderOnly:0
-m_Column:CALLSIGN:9:0:9:8:0:1::::0:0.0
-m_Column:STN:4:1:19:29:0:1::::1:0.0
-m_Column:ATYP:4:1:16:0:0:1::::1:0.0
-m_Column:STS:4:1:59:46:46:1::::1:0.0
-END
-VCCS
-Ts3Server:localhost
-Ts3Port:9988
+m_Column:TYPE:6:1:88:0:36:1::::2020425110
+m_Column:C/S:7:0:9:0:36:1::::2020425110
+m_Column:C/S:7:0:85:0:36:1::::2020425110
+m_Column:START:6:1:86:0:36:1::::2020425110
+m_Column:END:6:1:87:0:36:1::::2020425110
 END
 PLUGINS
 UK Controller Plugin:prenoteNotify:0
@@ -1392,4 +1225,3 @@ UK Controller Plugin:timer4Duration:120
 UK Controller Plugin:timer4Enabled:1
 UK Controller Plugin:timer5Duration:180
 UK Controller Plugin:timer5Enabled:1
-END
